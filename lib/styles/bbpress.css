@@ -1,0 +1,81 @@
+a.bbp-topic-permalink,
+a.bbp-reply-permalink {
+	float: right;
+	margin-left: 10px;
+}
+
+.bbp-reply-header,
+.bbp-reply-header a {
+	color: #999;
+}
+
+.bbp-pagination {
+	font-size:1.4em;
+	margin-bottom: 20px;
+}
+table.bbp-forums th span,
+table.bbp-topics th span,
+table.bbp-topic th span,
+table.bbp-replies th span {
+	float: right;
+}
+
+span.bbp-admin-links {
+	float: right;
+	color: #DDD;
+}
+
+tr.topic td,
+tr.reply td {
+	padding:0 10px;
+}
+
+p.bbp-topic-meta {
+	margin:0;
+	font-size:0.8em;
+}
+
+td.bbp-forum-info {
+	font-size:1.6em;
+}
+
+div.bbp-topic-tags {
+	float: right;
+}
+
+/* REPLY AUTHOR DETAILS */
+
+td.bbp-reply-author .bbp-author-avatar {
+	width:80px;
+	height:80px;
+	display:block;
+}
+
+tr td.bbp-reply-author {
+	text-align:center;
+	padding-bottom:20px;
+}
+
+td.bbp-reply-author a.bbp-author-name {
+	display:block;
+	line-height:20px;
+}
+
+td.bbp-reply-author br {
+	display:none;
+}
+
+td.bbp-reply-content,
+td.bbp-reply-author {
+	border-top:none;
+}
+
+div.bbp-reply-ip {
+	font-size:0.7em;
+	line-height:20px;
+	color:#999;
+}
+
+tfoot {
+	display:none;
+}

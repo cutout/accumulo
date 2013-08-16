@@ -1,0 +1,38 @@
+s:2445:"<img class="favicon" width="16" height="16" src="http://www.google.com/s2/favicons?domain=" alt="favicon" /><a href="http://www.nytimes.com">NY Times</a></span></h3></div>	<ul class="feed-item">
+			<li>
+				<a href="http://www.nytimes.com/2013/08/17/world/middleeast/egypt.html?partner=rss&amp;emc=rss" rel="nofollow" class="tt">New Bloodshed in Egypt as Islamists Defy Threat of Force</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Thousands of followers of the Muslim Brotherhood marched in Cairo on Friday to denounce a crushing assault by Egyptian forces, as reports of dozens of ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://www.nytimes.com/2013/08/16/us/nsa-often-broke-rules-on-privacy-audit-shows.html?partner=rss&amp;emc=rss" rel="nofollow" class="tt">N.S.A. Often Broke Rules on Privacy, Audit Shows</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+The violations of privacy rules, which were often inadvertent, cast new light on the agency’s potential for intrusions on Americans’ communications.					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://cityroom.blogs.nytimes.com/2013/08/16/new-york-today-sleepover-art/?partner=rss&amp;emc=rss" rel="nofollow" class="tt">City Room: New York Today: Sleepover Art</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+What you need to know for Friday and the weekend: micro-apartment living inside a museum, high crimes in the art world, and a dead heat ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://www.nytimes.com/2013/08/18/nyregion/what-new-yorkers-think-of-mayor-bloomberg.html?partner=rss&amp;emc=rss" rel="nofollow" class="tt">Poll Shows New Yorkers Are Deeply Conflicted Over Bloomberg’s Legacy</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Michael R. Bloomberg’s health initiatives have won over New Yorkers, but the public is less enamored of his overall mayoralty, The New York Times found.					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://www.nytimes.com/2013/08/17/world/asia/india-submarine.html?partner=rss&amp;emc=rss" rel="nofollow" class="tt">Divers Recover 4 Bodies From Sunken Indian Submarine</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Officials intend to use DNA analysis to identify the badly burned bodies found on the sub, which sank in Mumbai with 18 crew members aboard.					</div>
+				</div>
+			</li>
+    </ul>
+";

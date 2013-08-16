@@ -1,0 +1,38 @@
+s:2593:"<img class="favicon" width="16" height="16" src="http://www.google.com/s2/favicons?domain=" alt="favicon" /><a href="http://www.boingboing.com">Boing Boing</a></span></h3></div>	<ul class="feed-item">
+			<li>
+				<a href="http://feedproxy.google.com/~r/boingboing/iBag/~3/0_2L-c993Jc/story01.htm" rel="nofollow" class="tt">Memories, mistakes, and scientific evidence in the courtroom</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Moheb Costandi has written two amazing profiles on psychologist Elizabeth Loftus, a researcher who has challenged the way we rely on memory in ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://feedproxy.google.com/~r/boingboing/iBag/~3/EBwnuB0HLB8/story01.htm" rel="nofollow" class="tt">This Day in Blogging History: Frederic Brown&#039;s Mind Thing; Pratchett quilt; Ashcroft v Gilmore begins</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+<img src="http://localhost/wordpress/wp-content/themes/accumulo/tools/timthumb.php?w=75&amp;h=60&amp;src=http://media.boingboing.net/wp-content/uploads/2013/08/the-mind-thing-fredric-brown1.jpg" width="75" height="60" title="thumbnail" />One year ago today The Mind Thing, by Fredric Brown: excellent pulp-era science fiction: The Mind Thing is an alien being (which looks like ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://feedproxy.google.com/~r/boingboing/iBag/~3/rENyCa6ZseM/story01.htm" rel="nofollow" class="tt">Lead on your lips</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Ancient Roman cosmetics were notoriously poisonous &#8212; despite the fact that it was already a well-known toxin, folks slathered their faces in white lead ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://feedproxy.google.com/~r/boingboing/iBag/~3/teeAMT_v2go/story01.htm" rel="nofollow" class="tt">Little Brother inspired Google to encrypt its users&#039; traffic</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+On yesterday's "This Week in Google," a Google engineer called Matt Cutts revealed that the company started encrypting its queries in 2008 ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://feedproxy.google.com/~r/boingboing/iBag/~3/rOqyd7JuBno/story01.htm" rel="nofollow" class="tt">An &quot;urban legend&quot; documented in the scientific literature</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Mafeteng Districts Hospital, Lesotho, 1988. A young woman comes in with a stomach ache. Turns out, she's pregnant and in labor.					</div>
+				</div>
+			</li>
+    </ul>
+";

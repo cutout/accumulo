@@ -1,0 +1,38 @@
+s:3314:"<img class="favicon" width="16" height="16" src="http://www.google.com/s2/favicons?domain=" alt="favicon" /><a href="http://news.google.com">Google News</a></span></h3></div>	<ul class="feed-item">
+			<li>
+				<a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNGiAfJCYNvJoIxXmvStdX125UmWow&amp;url=http://abcnews.go.com/Sports/wireStory/prosecutors-pistorius-trial-early-year-19979176" rel="nofollow" class="tt">Pistorius to Be Indicted, Trial in Early 2014 - ABC News</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+<img src="http://localhost/wordpress/wp-content/themes/accumulo/tools/timthumb.php?w=75&amp;h=60&amp;src=http://ANd9GcTcsiG9IyuCB_GHZB-IzgzwE5uXaEYuEvOHI9RMrsIrumrDVWmqnaRfJhAbUzKcqdha4GImfR-7" width="75" height="60" title="thumbnail" />National Post					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNHVMBOQ1tEoWhFUnc8Yprkeo43BRw&amp;url=http://www.bbc.co.uk/news/world-asia-23729996" rel="nofollow" class="tt">Philippines ferry crash leaves at least five dead - BBC News</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+<img src="http://localhost/wordpress/wp-content/themes/accumulo/tools/timthumb.php?w=75&amp;h=60&amp;src=http://ANd9GcQ4dIwz-FhigbH4alnWn9rDqH9NUwSCXkdW7KYhrL8t1vgl8Hg603quLHuk1gj76isKvPMUGcs" width="75" height="60" title="thumbnail" />CTV News					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNEf_GkYuX5P6e8uFZGPBUPpLT1-_Q&amp;url=http://www.miamiherald.com/2013/08/15/3564238/obama-to-address-situation-in.html" rel="nofollow" class="tt">US scraps military drills with Egypt - MiamiHerald.com</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+<img src="http://localhost/wordpress/wp-content/themes/accumulo/tools/timthumb.php?w=75&amp;h=60&amp;src=http://ANd9GcSiqVm5c8XWG5IhNwtVvhi9IXqayUHM7reiFHRKQehSgqtyW0U3lQkwixKPOEKbE8KDKzUZ8Wc" width="75" height="60" title="thumbnail" />Economic Times					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNHogCkBOEco9Nx99ucn9L3tr0cM5g&amp;url=http://www.bbc.co.uk/news/world-middle-east-23732350" rel="nofollow" class="tt">Egypt crisis: Death toll rises as violence spreads - BBC News</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+<img src="http://localhost/wordpress/wp-content/themes/accumulo/tools/timthumb.php?w=75&amp;h=60&amp;src=http://ANd9GcSvQ1sSH0hAS66uEaYP_5sAUBqI2Sd52RrPdoChMILHz24gwFUBTYWBDHdG8P9iLjZRp5Q0IXM" width="75" height="60" title="thumbnail" />BBC News					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNFKkbyU2MWE4irk9wMTjmpYqeRkJw&amp;url=http://www.nytimes.com/2013/08/17/world/asia/india-submarine.html" rel="nofollow" class="tt">Divers Recover 4 Bodies From Sunken Indian Submarine - New York Times (blog)</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+<img src="http://localhost/wordpress/wp-content/themes/accumulo/tools/timthumb.php?w=75&amp;h=60&amp;src=http://ANd9GcSLFyO-feS3PvLHJ4qYlwOzIoHIF_KageBNPQnGDzrUvMu_IeGjxHREc5UE-1Rw1Emb_dLFClSL" width="75" height="60" title="thumbnail" />New York Times (blog)					</div>
+				</div>
+			</li>
+    </ul>
+";

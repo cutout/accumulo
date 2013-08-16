@@ -1,0 +1,779 @@
+/* --- RESET --- */
+/* Based upon 'reset.css' in the Yahoo! User Interface Library:http://developer.yahoo.com/yui */
+
+caption,
+th {
+	text-align:right;
+}
+
+/* --- COLUMNS --- */
+.container {
+	text-align:right;
+}
+
+.column {
+	float:right;
+}
+
+/* 80 x columnCount */
+
+/* width = ( column * 80 ) - 40 */
+
+/* width = column * 80 */
+.prepend-1 {
+	margin-right: 80px;
+	margin-left: auto;
+}
+
+.prepend-2 {
+	margin-right: 160px;
+	margin-left: auto;
+}
+
+.prepend-3 {
+	margin-right: 240px;
+	margin-left: auto;
+}
+
+.prepend-4 {
+	margin-right: 320px;
+	margin-left: auto;
+}
+
+/* width = column * 80 */
+.append-1 {
+	margin-left: 80px;
+	margin-right: auto;
+}
+
+.append-2 {
+	margin-left: 160px;
+	margin-right: auto;
+}
+
+.append-3 {
+	margin-left: 240px;
+	margin-right: auto;
+}
+
+.append-4 {
+	margin-left: 320px;
+	margin-right: auto;
+}
+
+/* General Styles */
+
+.border {
+	padding-left:19px;
+	border-left:1px solid #eee;
+	padding-right: 0;
+	border-right: none;
+}
+
+/* ie hack \*/
+
+<* end hack */
+
+.left {
+	text-align:left;
+}
+
+.column.left {
+	float:left;
+	text-align:left;
+}
+
+/* --- TEXT --- */
+
+li, dd {
+	padding:0 20px 0 0;
+}
+
+ol li {
+	padding-right:0;
+	margin-right: 30px;
+	padding-left: 0;
+	margin-left: auto;
+}
+
+ul li {
+	padding-right:20px;
+	padding-left: 0;
+}
+
+/* SUPERFISH NAV */
+
+.nav li {
+	float:right;
+}
+
+.nav li:hover ul,
+.nav li.sfHover ul {
+	right:0;
+	left: auto;
+}
+
+ul.nav li li:hover ul,
+ul.nav li li.sfHover ul,
+ul.nav li li li:hover ul,
+ul.nav li li li.sfHover ul {
+	right:200px;
+	left: auto;
+}
+
+.nav a.sf-with-ul {
+	padding-left:25px;
+	padding-right: 0;
+}
+
+.sf-sub-indicator {
+	left:10px;
+	right: auto;
+}
+
+/* --- FORMS --- */
+
+.post ul.gform_fields li,
+.page .page ul.gform_fields li {
+	margin-right:0;
+	margin-left: auto;
+}
+
+#skipToContent {
+	right:20px;
+	left: auto;
+}
+
+/* --- MESSAGES --- */
+.error,
+.notice, 
+.success,
+.information {
+	padding:9px 40px 9px 10px;
+}
+
+/* --- COMMON WORDPRESS SETTINGS --- */
+/* standard WordPress image classes */
+
+.alignright {
+	float:right;
+	margin:0 0 20px 20px;
+}
+
+.alignleft {
+	float:left;
+	margin:0 20px 20px 0;
+}
+
+.floatright {
+	float:right;
+}
+
+.floatleft {
+	float:left;
+}
+
+blockquote.right {
+	margin-left:20px;
+	text-align:left;
+	margin-right:0;
+	float:right;
+}
+
+blockquote.left {
+	margin-right:20px;
+	text-align:right;
+	margin-left:0;
+	float:left;
+}
+
+.textleft {
+	text-align:left;
+}
+
+.textright {
+	text-align:right;
+}
+
+.invisible {
+	right:-1000em;
+	left: auto;
+}
+
+/* block navigation under post content */
+
+.postNavigation .freeUpdates {
+	padding:0 45px 20px 20px;
+}
+
+/* wordpress calendar */
+
+/* Widgets */
+
+.widget .profile_image_url,
+.widget .authorLink,
+.widget .timthumb {
+	float:right;
+	margin:0 0 0 10px;
+}
+
+.widget ol {
+	margin-right:0;
+	margin-left: auto;
+}
+
+.widget ul ul li {
+	margin:0 20px 0 0;
+}
+
+.widget ul ul li a {
+	padding-right:0;
+	padding-left: 0;
+}
+
+.widget #postDetails ul {
+	margin-right:50px;
+	margin-left: auto;
+}
+
+li.postDetailsCommentsFeed {
+	padding-right:20px;
+	padding-left: 0;
+}
+
+/* page numbers */
+.bm_numberedPages {
+	text-align:right;
+}
+
+.bm_numberedPages .pageData {
+	left:0;
+	right: auto;
+}
+
+/* posts */
+.post ul li,
+.page .page ul li,
+.bookmarks li li {
+	padding-right:0;
+	margin-right:30px;
+	padding-left: 0;
+	margin-left: auto;
+}
+
+/* comments */
+
+#comments .avatar {
+	right:10px;
+	left: auto;
+}
+
+#comments li .commentWrapper {
+	padding:0 65px 0 0;
+}
+
+#comments .cancel-comment-reply a {
+	margin-right:8px;
+	margin-left: auto;
+}
+
+#comments .commentDate {
+	margin-right:8px;
+	margin-left: auto;
+}
+
+#comments a.twitter_anywhere {
+	background:url(images/twitter.png) center right no-repeat;
+	float:right;
+}
+
+#comments .actions {
+	left:12px;
+	right: auto;
+}
+
+#comments .actions a {
+	margin-right:8px;
+	margin-left: auto;
+}
+
+#comments a.comment_author_profile {
+	right:10px;
+	left: auto;
+}
+
+.toggle {
+	padding:0 0 0 20px;
+	float:right;
+}
+
+.toggle span {
+	left:5px;
+	right: auto;
+}
+
+.allowedHtml {
+	float:right;
+}
+
+/* image treatments */
+a.imageborder,
+.galleryImage img {
+	float:right;
+}
+
+.galleryImage {
+	float:right;
+}
+
+/* search box */
+
+.searchform .text {
+	float:right;
+}
+
+.searchform .searchsubmit {
+	left:8px;
+	right: auto;
+}
+
+/* debug query box */
+
+.captcha {
+	float:right;
+	margin:0 0 0 10px;
+}
+
+.authorWrapper .authorPosts {
+	float:right;
+	margin-right:20px;
+	margin-left: auto;
+}
+
+.authorDetails img {
+	float:right;
+	margin:0 0 8px 15px;
+}
+
+a.html_button {
+	float:right;
+	margin-left:5px;
+	margin-right: auto;
+}
+
+/* TAGS */
+
+ul.tagsRanking li {
+	margin-right:0;
+	margin-left: auto;
+}
+
+ul.tagsRanking em {
+	left:10px;
+	right: auto;
+}
+
+ul.tagsRanking span {
+	right:0;
+	left: auto;
+}
+
+ul.tagsRanking a {
+	right:10px;
+	left: auto;
+}
+
+/* WP125 */
+
+.wp125ad {
+	float:right;
+}
+
+.wp125ad.odd {
+	margin-left:8px;
+	margin-right: auto;
+}
+
+/*Top Page Navbar */
+
+.nav {
+	float: left;
+}
+
+.nav li {
+	margin-right:18px;
+	float: right;
+	margin-left: auto;
+}
+
+.nav li.current-cat,
+.nav li.current_page_item {
+	background:url(../images/bracket-1.png) no-repeat right;
+}
+
+.nav li.current-cat a,
+.nav li.current-cat a:visited,
+.nav li.current_page_item a,
+.nav li.current_page_item a:visited {
+	background: url(../images/bracket-2.png) no-repeat left;
+}
+
+/* Dropdown Menus */
+
+ul.nav li li:hover ul,
+ul.nav li li.sfhover ul {
+	right: 188px;
+	left: auto;
+}
+
+ul.nav li li li:hover ul,
+ul.nav li li li.sfhover ul {
+	right: 198px;
+	left: auto;
+}
+
+.nav li ul {
+	right: -999em;
+	left: auto;
+}
+
+.nav li li {
+	margin-right: 14px;
+	margin-left: auto;
+}
+
+.nav li:hover ul,
+.nav li li:hover ul,
+.nav li li li:hover ul,
+.nav li.sfhover ul,
+.nav li li.sfhover ul,
+.nav li li li.sfhover ul {
+	right: auto;
+	left: auto;
+}
+
+.nav li ul ul {
+	margin:-1px -33px 0 0  ;
+	border-right:1px solid #a8b7c4;
+	border-left: none;
+}
+
+.nav a.sf-with-ul {
+	padding-left: 31px;
+	padding-right: 0;
+}
+
+.nav li .sf-sub-indicator {
+	left: 	.6em;
+	right: auto;
+}
+
+/* ---------- @ Nav -----------*/
+
+@media projection, screen {
+
+}
+
+@media print {
+
+}
+
+li#first {
+	border-right:1px solid #dae1e5;
+	border-left: none;
+}
+
+.ui-tabs-nav li {
+	float: right!important;
+}
+
+.ui-tabs-nav a.ui-tabs, .ui-tabs-nav a.ui-tabs:visited {
+	border-right:none;
+	border-left: none;
+}
+
+.ui-tabs-nav span.loading {
+	background:url(../images/spinner.gif) no-repeat right center;
+	padding:0 22px 3px 0;
+}
+
+/* Additional IE specific bug fixes... */
+
+/* ---------- @ Post Styles -----------*/
+
+.entry li {
+	margin: 0 42px 10px 0;
+}
+
+/*Images*/
+
+.wp-caption {
+	padding:10px 10px 10px 5px;
+}
+
+img.alignright {
+	margin:5px 0 10px 15px;
+	float:right;
+}
+
+img.alignleft {
+	margin:5px 15px 10px 0;
+	float:left;
+}
+
+.wp-caption.alignright {
+	float:right;
+	margin:20px 0 10px 22px;
+}
+
+.wp-caption.alignleft {
+	float:left;
+	margin:20px 22px 10px 0;
+}
+
+/* ---------- @ Comments -----------*/
+
+.reply a, .reply a:visited {
+	padding: 3px 0 15px 8px  ;
+}
+
+.commentlist li li {
+	border-right: 1px solid #CCC;
+	margin:10px 25px 0 0;
+	padding-right:25px;
+	padding-left: 0;
+	border-left: none;
+}
+
+.avatar {
+	margin: 3px 0 0 10px;
+	float:right;
+}
+
+#trackbacklist li {
+	margin: 10px 35px 10px 0;
+}
+
+.commentmetadata {
+	float:right;
+}
+
+/*  
+Theme Name: Accumulo
+Theme URI: http://www.prothemedesign.com/cumulo/
+Description: An RSS Aggregator Theme
+Version: 1.5.3
+Author: Pro Theme Design
+Author URI: http://www.prothemedesign.com
+
+The CSS, XHTML and design is released under GPL:
+http://www.opensource.org/licenses/gpl-license.php
+
+TABLE OF CONTENTS
+
+  HTML Tags
+  Structure
+  Nav
+  Headers
+  Content Styles
+  Footer
+ 
+
+*/
+/* ---------- @ HTML Tags -----------*/
+
+blockquote {
+	border-right:3px solid #CCC;
+	border-left: none;
+}
+
+/* ---------- @ Structure -----------*/
+
+#branding {
+	float: right;
+}
+
+.single #content,
+.archive #content,
+.page #content,
+.page-template-custom-page-blog-php #content {
+	float: right;
+}
+
+#sidebar {
+	float: left;
+}
+
+.right {
+	float:right;
+}
+
+.left {
+	float:left;
+}
+
+/* ---------- @ Headers -----------*/
+
+.widget img.timthumb {
+	float:right;
+	margin-left:8px;
+	margin-right: auto;
+}
+
+.widget_bm_rsssummary li.article img {
+	float:left;
+	margin:2px 10px 10px 0;
+}
+
+/* ---------- @ Content Styles -----------*/
+
+#logo {
+	float: right;
+	margin: 8px 0 0 13px;
+	padding: 3px 32px 0 0;
+}
+
+#description {
+	float:right;
+}
+
+.panes .widget {
+	float:right;
+	margin: 23px 12px 23px 16px;
+}
+
+.ui-tabs-panel .widget img {
+	margin: 0 0 4px 7px;
+}
+
+/* RSS WIDGET */
+
+.widget .feed-item.item-row-position-2 {
+	margin-left:0;
+	margin-right: auto;
+}
+
+.tooltipContainer img {
+	float:left;
+	margin:2px 10px 10px 0;
+}
+
+a#arrow-top {
+	left: 40px;
+	right: auto;
+}
+
+.favicon {
+	margin-left: 7px;
+	margin-right: auto;
+}
+
+/* Author Page*/
+
+#writer .avatar {
+	margin:4px 0 7px 17px;
+}
+
+/* Search and Archives*/
+
+#pagination div {
+	float:right;
+	margin-left:10px;
+	margin-right: auto;
+}
+
+.archive #icon-rss {
+	margin-right:3px;
+	margin-left: auto;
+}
+
+/*Sidebar and Widgets*/
+
+#sidebar .widget li li {
+	margin-right:34px;
+	margin-left: auto;
+}
+
+#wp125adwrap_2c .wp125ad {
+	float:right;
+	margin-left: 8px;
+	margin-right: auto;
+}
+
+#sidebar h3.widgettitle span {
+	margin:-23px -28px 0 0;
+}
+
+/*Bottom Widgets*/
+
+.widget li {
+	padding: 5px 16px 5px 0;
+}
+
+#widgets-bottom .widget.widget-column-4 {
+	padding-left:19px;
+	padding-right: 0;
+}
+
+#widgets-bottom .widget {
+	float: right;
+	border-left: 1px dotted #c5c5c5;
+	border-right: none;
+}
+
+#widgets-bottom .widget:last-child {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#widgets-bottom .widget:first-child {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+#widgets-bottom li a.profile_image_url, #widgets-bottom li a.profile_image_url:visited {
+	float: right;
+	margin: 5px 0 6px 12px;
+}
+
+/* ---------- @ Form Elements -----------*/
+
+#masthead #searchform {
+	float:left;
+	text-align:left;
+}
+
+/* ---------- @ Footer -----------*/
+
+/* ---------- @ Admin Bar ---------------- */
+/* administration bar */
+#bm_adminBar {
+	padding:0 19px 3px 0;
+}
+
+#bm_adminBar li {
+	float:right;
+}
+
+#bm_adminBar ul li a, #bm_adminBar ul li a:visited {
+	background:transparent no-repeat center right;
+	padding:0 20px 0 30px;
+}
+
+#bm_adminBar a.account {
+	padding-right:10px !important;
+	padding-left: 0;
+}
+
+#tabBlogContent {
+	float:right;
+}
+
+#tabBlogSidebar {
+	float:right;
+}
+
+.post .timthumb {
+	float:right;
+	margin:7px 0 10px 15px;
+}

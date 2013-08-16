@@ -1,0 +1,38 @@
+s:2240:"<img class="favicon" width="16" height="16" src="http://kinja.com/assets/images/logos/favicons/gawker.ico" alt="favicon" /><a href="http://www.themorningnews.com">The Morning News</a></span></h3></div>	<ul class="feed-item">
+			<li>
+				<a href="http://feedproxy.google.com/~r/TheMorningNews/features/~3/wLrCnhjvvG8/story01.htm" rel="nofollow" class="tt">August 16, 2013: Afternoon</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Presidents deserve their vacations, but it&#8217;s too bad they&#8217;re always taken behind the gates of wealthy friends. #opinions  When ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://feedproxy.google.com/~r/TheMorningNews/features/~3/rpT0lk9FPCs/story01.htm" rel="nofollow" class="tt">August 16, 2013: Morning</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Army blocks entrances to Tahrir Square while Cairo prepares for Muslim Brotherhood&#8217;s &#8220;march of anger.&#8221;   The Egyptian military did what ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://feedproxy.google.com/~r/TheMorningNews/features/~3/le6WzsbRMxs/story01.htm" rel="nofollow" class="tt">The Best Ways to Ask Questions</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+by Brendan Fitzgerald Parsing the noun and verb of “interview.”  On a March day in 2002, Walter Cronkite, Mikhail Gorbachev, Iggy Pop, and Donald ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://feedproxy.google.com/~r/TheMorningNews/features/~3/OOmcEWaMca8/story01.htm" rel="nofollow" class="tt">August 15, 2013: Afternoon</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+You constantly have this negative eye on you just waiting for you to mess up. Growing up with stop-and-frisk.   Future-minded Republicans ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://feedproxy.google.com/~r/TheMorningNews/features/~3/VavGh_KbJKw/story01.htm" rel="nofollow" class="tt">August 15, 2013: Morning</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Border dispute between India and China diffused with a peaceful exchange of beer and sugar dumplings.   Camel milk, long overshadowed ...					</div>
+				</div>
+			</li>
+    </ul>
+";

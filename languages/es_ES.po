@@ -1,0 +1,682 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Accumulo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-21 12:37-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Darren Hoyt <cutout@gmail.com>\n"
+"Language-Team: wj <wjdiaz@hotmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: /Users/darrenhoyt/Documents/ftp.prothemedesign.com/testtheme/wp-content/themes/accumulo/\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:5
+msgid "Error 404 - Not Found"
+msgstr "Error 404 - No Encontrado"
+
+#: archive.php:7
+msgid "Category Archive for"
+msgstr "Archivo por categoria "
+
+#: archive.php:10
+msgid "Tag Archive for"
+msgstr "Archivo por etiqueta"
+
+#: archive.php:13
+#: archive.php:16
+#: archive.php:19
+msgid "Archive for"
+msgstr "Archivo de"
+
+#: archive.php:22
+msgid "Blog Archives"
+msgstr "Archivos Blog"
+
+#: archive.php:35
+#: author.php:30
+#: custom-page-blog.php:35
+#: page.php:13
+#: search.php:16
+msgid "Not Found"
+msgstr "No Encontrado"
+
+#: author.php:7
+msgid "Author Archives"
+msgstr "Archivos Autor"
+
+#: author.php:29
+msgid "Search Results"
+msgstr "Resultados de la busqueda"
+
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Favor de no cargar esta pagina directamente. Gracias!"
+
+#: comments.php:18
+msgid "Responses"
+msgstr "Respuestas"
+
+#: comments.php:19
+msgid "Leave a comment"
+msgstr "Dejar un comentario"
+
+#: comments.php:25
+msgid "&laquo;Older Comments"
+msgstr "&laquo;Comentarios Anteriores"
+
+#: comments.php:28
+msgid "Newer Comments&raquo;"
+msgstr "Comentarios Nuevos&raquo"
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr "Los comentarios estan cerrados"
+
+#: comments.php:55
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: comments.php:76
+msgid "Leave a Response"
+msgstr "Deje una Respuesta"
+
+#: comments.php:79
+msgid "Cancel Reply"
+msgstr "Cancelar Respuesta"
+
+#: comments.php:83
+msgid "You must be"
+msgstr "Usted debe ser"
+
+#: comments.php:86
+msgid "logged in"
+msgstr "Identificado"
+
+#: comments.php:89
+msgid "to post a comment."
+msgstr "para anadir un comentario"
+
+#: comments.php:97
+msgid "Logged in as"
+msgstr "Identificado como"
+
+#: comments.php:99
+msgid "Log out"
+msgstr "Salir"
+
+#: comments.php:107
+msgid "Name"
+msgstr "Nombre"
+
+#: comments.php:110
+#: comments.php:121
+msgid "(required)"
+msgstr "(requerido)"
+
+#: comments.php:118
+msgid "Mail (will not be published)"
+msgstr "Correo electronico (no sera publicado)"
+
+#: comments.php:129
+msgid "Website"
+msgstr "Pagina Web"
+
+#: comments.php:144
+msgid "Please note: comment moderation is enabled and may delay your comment. There is no need to resubmit your comment."
+msgstr "Favor de notar: la moderacion de comentarios esta activa y esto puede atrasar la publicacion de su comentario. No es necesario enviarlo nuevamente."
+
+#: comments.php:150
+msgid "Submit Comment"
+msgstr "Enviar Comentario"
+
+#: custom-page-blog.php:21
+#: functions.php:277
+#: loop.php:22
+msgid "by"
+msgstr "por"
+
+#: custom-page-blog.php:21
+#: functions.php:277
+#: loop.php:22
+msgid "on"
+msgstr "en"
+
+#: custom-page-blog.php:22
+#: functions.php:278
+#: loop.php:23
+msgid "Comments"
+msgstr "Comentarios"
+
+#: footer.php:16
+msgid "All Rights Reserved"
+msgstr "Derechos Reservados"
+
+#: functions.php:65
+msgid "Tabs"
+msgstr "Pestaña"
+
+#: functions.php:66
+msgid "Enter the homepage tab names. Leave blank to hide the tab"
+msgstr "Entre los nombres de las pestañas de la pagina principal. Deje el campo vacio para esconder la pestaña "
+
+#: functions.php:70
+msgid "Tab 1 name"
+msgstr "Nombre pestaña 1"
+
+#: functions.php:77
+msgid "Tab 2 name"
+msgstr "Nombre pestaña 2"
+
+#: functions.php:84
+msgid "Tab 3 name"
+msgstr "Nombre pestaña 3"
+
+#: functions.php:91
+msgid "Tab 4 name"
+msgstr "Nombre pestaña 4"
+
+#: functions.php:98
+msgid "Tab 5 name"
+msgstr "Nombre pestaña 5"
+
+#: functions.php:105
+msgid "Tab 6 name"
+msgstr "Nombre pestaña 6"
+
+#: functions.php:112
+msgid "Tab 7 name"
+msgstr "Nombre pestaña 7"
+
+#: functions.php:119
+msgid "Tab 8 name"
+msgstr "Nombre pestaña 8"
+
+#: functions.php:126
+msgid "Tab 9 name"
+msgstr "Nombre pestaña 9"
+
+#: functions.php:133
+msgid "Tab 10 name"
+msgstr "Nombre pestaña 10"
+
+#: functions.php:142
+msgid "Theme Settings"
+msgstr "Configuracion"
+
+#: functions.php:147
+msgid "Blog tab"
+msgstr "Pestaña del Blog"
+
+#: functions.php:152
+msgid "An option to display a single tab in a blog format. Will use the <strong>Main Sidebar widgets</strong> rather than the tabs widgets"
+msgstr "Opcion para mostrar una de las pestañas en formato de blog. Se utilizaran los <strong>Widgets del Sidebar</strong>  en vez de los widgets de las pestañas"
+
+#: functions.php:155
+msgid "RSS Feed Cache Timeout"
+msgstr "RSS Feed caché tiempo expirado"
+
+#: functions.php:160
+msgid "The amount of minutes the cache should be stored for. <strong>Note</strong>: You may need to wait up to 24 hours for this change to take effect"
+msgstr "Numero de minutos que el caché sera almacenado. <strong>Nota</strong>: Puede que tenga que esperar hasta 24 horas para que este cambio entre en efecto."
+
+#: functions.php:163
+msgid "Open Feed links in a new window"
+msgstr "Abrir enlaces Feed en una nueva ventana"
+
+#: functions.php:167
+msgid "Should feed links from the Accumulo RSS Widget open in a new window?"
+msgstr "Abrir enlaces feed del Accumulo RSS Widget en una nueva ventana?"
+
+#: functions.php:172
+msgid "Analytics"
+msgstr "Analytics"
+
+#: functions.php:177
+msgid "Google Analytics code"
+msgstr "Codigo Google Analytics"
+
+#: functions.php:180
+msgid "Optional Google Analytics ID"
+msgstr "Optional Google Analytics ID"
+
+#: functions.php:204
+msgid "Categories"
+msgstr "Categorias"
+
+#: functions.php:210
+msgid "Pages"
+msgstr "Paginas"
+
+#: functions.php:211
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: functions.php:221
+msgid "Widgets for"
+msgstr "Widgets para"
+
+#: functions.php:421
+msgid "Error fetching feed"
+msgstr "Error buscando el feed"
+
+#: functions.php:496
+msgid "Title:"
+msgstr "Titulo"
+
+#: functions.php:497
+msgid "Website URL:"
+msgstr "URL Pagina Web"
+
+#: functions.php:498
+msgid "Feed URL:"
+msgstr "Feed URL"
+
+#: functions.php:499
+msgid "Favicon:"
+msgstr "Favicon"
+
+#: functions.php:500
+msgid "Quantity:"
+msgstr "Cantidad"
+
+#: functions.php:680
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: functions.php:683
+#, php-format
+msgid "%1$s &bull; %2$s"
+msgstr "%1$s &bull; %2$s"
+
+#: functions.php:685
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: functions.php:692
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario esta pendiente de moderacion"
+
+#: functions.php:700
+msgid "Reply"
+msgstr "Responder"
+
+#: functions.php:701
+msgid "Log in to reply"
+msgstr "Acceda su cuenta para responder"
+
+#: header.php:70
+msgid "Home"
+msgstr "Pagina Principal"
+
+#: loop.php:50
+msgid "Pages:"
+msgstr "Paginas"
+
+#: loop.php:59
+msgid "Tagged as:"
+msgstr "Etiquetado como"
+
+#: loop.php:64
+msgid "Edit this entry"
+msgstr "Editar esta entrada"
+
+#: pagination.php:2
+msgid "&laquo;Older Entries"
+msgstr "&laquo;Articulos Anteriores"
+
+#: pagination.php:3
+msgid "Newer Entries&raquo;"
+msgstr "Articulos Nuevos&raquo;"
+
+#: search.php:5
+msgid "Search results for"
+msgstr "Buscar resultados para"
+
+#: lib/functions/bm_adminFunctions.php:285
+msgid "Options"
+msgstr "Opciones"
+
+#: lib/functions/bm_adminFunctions.php:287
+msgid "Edit Action Properties"
+msgstr "Editar propiedades de accion"
+
+#: lib/functions/bm_adminFunctions.php:287
+msgid "Extras"
+msgstr "Extras"
+
+#: lib/functions/bm_adminFunctions.php:308
+#: lib/functions/bm_adminFunctions.php:407
+msgid "Settings saved"
+msgstr "Configuracion salvada"
+
+#: lib/functions/bm_adminFunctions.php:313
+msgid "Settings reset"
+msgstr "Configuracion reinicializada"
+
+#: lib/functions/bm_adminFunctions.php:322
+msgid "Theme Options"
+msgstr "Opciones del Theme"
+
+#: lib/functions/bm_adminFunctions.php:329
+#: lib/functions/bm_adminFunctions.php:353
+#: lib/functions/bm_adminFunctions.php:441
+msgid "Save Settings"
+msgstr "Salvar configuracion"
+
+#: lib/functions/bm_adminFunctions.php:361
+msgid "Reset"
+msgstr "Reinicializar"
+
+#: lib/functions/bm_adminFunctions.php:362
+msgid "If, for some crazy reason, you should wish to reset your themes properties then you can use the reset button below to free up the database info about this theme."
+msgstr "Si por alguna razon, desea reinicializar las propiedades del Theme puede utilizar este boton para borrar la informacion en la base de datos correspondiente a este Theme."
+
+#: lib/functions/bm_adminFunctions.php:364
+msgid "Reset theme settings"
+msgstr "Reinicializar la configuracion del Theme"
+
+#: lib/functions/bm_adminFunctions.php:392
+msgid "Pro Theme Design Account"
+msgstr "Cuenta Pro Theme Design"
+
+#: lib/functions/bm_adminFunctions.php:393
+msgid "Theme Support"
+msgstr "Soporte"
+
+#: lib/functions/bm_adminFunctions.php:394
+msgid "Pro Theme Design Forum"
+msgstr "Foro Pro Theme Design"
+
+#: lib/functions/bm_adminFunctions.php:411
+msgid "Action Settings"
+msgstr "Configuracion de las acciones"
+
+#: lib/functions/bm_adminFunctions.php:416
+msgid "Edit site actions"
+msgstr "Editar acciones del sitio"
+
+#: lib/functions/bm_adminFunctions.php:433
+msgid "Hook name"
+msgstr "Nombre del Hook"
+
+#: lib/functions/bm_adminFunctions.php:495
+msgid "Post Template"
+msgstr "Plantilla de Articulos"
+
+#: lib/functions/bm_formHelpers.php:176
+msgid "NB: To select more than 1 option press and hold \"CTRL\" when selecting the desired item"
+msgstr "Para seleccionar mas de 1 opcion mantenga oprimido \"CTRL\" mientras seleccionas las mismas"
+
+#: lib/functions/bm_formHelpers.php:238
+msgid "clear"
+msgstr "borrar"
+
+#: lib/functions/bm_themeFunctions.php:626
+msgid "Search"
+msgstr "Buscar"
+
+#: lib/functions/bm_themeFunctions.php:628
+#: lib/functions/bm_themeFunctions.php:1563
+msgid "404 Page not found"
+msgstr "404 La pagina no fue encontrada."
+
+#: lib/functions/bm_themeFunctions.php:639
+#: lib/functions/bm_themeFunctions.php:643
+#: lib/functions/bm_themeFunctions.php:1062
+#: lib/functions/bm_themeFunctions.php:1343
+msgid "Page"
+msgstr "Pagina"
+
+#: lib/functions/bm_themeFunctions.php:701
+msgid "No categories"
+msgstr "No hay categorias"
+
+#: lib/functions/bm_themeFunctions.php:718
+msgid "and"
+msgstr "y"
+
+#: lib/functions/bm_themeFunctions.php:722
+msgid "sub categories"
+msgstr "sub categorias"
+
+#: lib/functions/bm_themeFunctions.php:779
+msgid "Twitter"
+msgstr "Twitter"
+
+#: lib/functions/bm_themeFunctions.php:780
+msgid "Currently reading"
+msgstr "Leyendo"
+
+#: lib/functions/bm_themeFunctions.php:785
+msgid "Stumble It"
+msgstr "Stumble It"
+
+#: lib/functions/bm_themeFunctions.php:791
+msgid "Digg"
+msgstr "Digg"
+
+#: lib/functions/bm_themeFunctions.php:797
+msgid "delicious"
+msgstr "delicious"
+
+#: lib/functions/bm_themeFunctions.php:803
+msgid "Facebook"
+msgstr "Facebook"
+
+#: lib/functions/bm_themeFunctions.php:1249
+msgid "My Account"
+msgstr "Mi Cuenta"
+
+#: lib/functions/bm_themeFunctions.php:1250
+msgid "Dashboard"
+msgstr "Panel Principal"
+
+#: lib/functions/bm_themeFunctions.php:1257
+msgid "New Post"
+msgstr "Articulo Nuevo "
+
+#: lib/functions/bm_themeFunctions.php:1258
+msgid "New Page"
+msgstr "Pagina Nuevo "
+
+#: lib/functions/bm_themeFunctions.php:1263
+msgid "Edit Post"
+msgstr "Editar Articulo"
+
+#: lib/functions/bm_themeFunctions.php:1268
+msgid "Edit Page"
+msgstr "Editar Pagina"
+
+#: lib/functions/bm_themeFunctions.php:1273
+msgid "Logout"
+msgstr "Salir"
+
+#: lib/functions/bm_themeFunctions.php:1347
+msgid "First"
+msgstr "Primero"
+
+#: lib/functions/bm_themeFunctions.php:1373
+msgid "Last"
+msgstr "Ultimo"
+
+#: lib/functions/bm_themeFunctions.php:1507
+msgid "Thumbnail"
+msgstr "Imagen reducida"
+
+#: lib/functions/bm_themeFunctions.php:1526
+msgid "Archive for the"
+msgstr "Archivo para los"
+
+#: lib/functions/bm_themeFunctions.php:1526
+msgid "Category"
+msgstr "Categoria"
+
+#: lib/functions/bm_themeFunctions.php:1530
+msgid "Posts Tagged"
+msgstr "Articulos Etiquetados"
+
+#: lib/functions/bm_themeFunctions.php:1539
+msgid "Author Archive"
+msgstr "Archivo de Autor"
+
+#: lib/functions/bm_themeFunctions.php:1564
+msgid "Uh oh - you've \"found\" something that doesn't exist"
+msgstr "Oh oh - usted ha \"encontrado\" algo que no existe"
+
+#: lib/functions/bm_themeFunctions.php:1818
+msgid "Subscribe to Free updates!"
+msgstr "Suscribase gratuitamente a nuestras actualizaciones!"
+
+#: lib/functions/bm_utilities.php:38
+msgid "All categories (default)"
+msgstr "Todas las categorias (default)"
+
+#: lib/functions/bm_utilities.php:79
+msgid "Right Sidebar (default)"
+msgstr "Sidebar derecha (default)"
+
+#: lib/functions/bm_utilities.php:254
+msgid "Your comment is awaiting moderation"
+msgstr "Su comentario aguarda por moderacion"
+
+#: lib/functions/bm_utilities.php:281
+msgid "Edit"
+msgstr "Editar"
+
+#: lib/functions/bm_utilities.php:339
+#, php-format
+msgid "about %s ago"
+msgstr "sobre %s hace"
+
+#: lib/functions/bm_utilities.php:564
+msgid "Continue reading"
+msgstr "Continuar leyendo"
+
+#: lib/functions/bm_utilities.php:795
+msgid "Please press back and try again"
+msgstr "Favor de oprimir atras e intentarlo otra vez"
+
+#: lib/functions/bm_utilities.php:916
+msgid "Name can not be empty"
+msgstr "No puede dejar el nombre en blanco"
+
+#: lib/functions/bm_utilities.php:920
+msgid "Please enter a valid email address"
+msgstr "Favor de entrar una direccion de correo electronico valida"
+
+#: lib/functions/bm_utilities.php:924
+msgid "Please enter a message"
+msgstr "Favor de entrar su mensaje"
+
+#: lib/functions/bm_utilities.php:928
+msgid "Please complete the captcha code"
+msgstr "Favor de entrar el codigo Captcha"
+
+#: lib/functions/bm_utilities.php:954
+msgid "Email Not Sent"
+msgstr "El correo electronico no fue enviado"
+
+#: lib/functions/bm_utilities.php:962
+msgid "return to contact page"
+msgstr "regresar a la pagina de contacto"
+
+#: lib/functions/bm_widgetClasses.php:79
+msgid "Feed link Text:"
+msgstr "Texto para el enlace Feed"
+
+#: lib/functions/bm_widgetClasses.php:198
+msgid "Location:"
+msgstr "Localizacion"
+
+#: lib/functions/bm_widgetClasses.php:200
+msgid "Zoom Amount:"
+msgstr "Cantidad de acercamiento"
+
+#: lib/functions/bm_widgetClasses.php:215
+msgid "Type of Map view:"
+msgstr "Tipo de vista en el mapa"
+
+#: lib/functions/bm_widgetClasses.php:295
+msgid "Posts"
+msgstr "Articulo"
+
+#: lib/functions/bm_widgetClasses.php:296
+msgid "Everywhere"
+msgstr "En todas partes"
+
+#: lib/functions/bm_widgetClasses.php:301
+msgid "Display date:"
+msgstr "Mostrar fecha"
+
+#: lib/functions/bm_widgetClasses.php:302
+msgid "Display on:"
+msgstr "Mostrar en"
+
+#: lib/functions/bm_widgetClasses.php:383
+msgid "Twitter username:"
+msgstr "Nombre de usuario Twitter:"
+
+#: lib/functions/bm_widgetClasses.php:385
+msgid "Number of items to display:"
+msgstr "Numero de articulos ha mostrar"
+
+#: lib/functions/bm_widgets.php:32
+msgid "Popular Posts"
+msgstr "Articulos populares"
+
+#: lib/functions/bm_widgets.php:63
+msgid "comments"
+msgstr "comentarios"
+
+#: lib/functions/bm_widgets.php:89
+msgid "Location"
+msgstr "Localizacion"
+
+#: lib/functions/bm_widgets.php:90
+msgid "London, England"
+msgstr "Londres, Inglaterra"
+
+#: lib/functions/bm_widgets.php:202
+msgid "Related Posts"
+msgstr "Articulos Relacionados"
+
+#: lib/functions/bm_widgets.php:214
+msgid "Permanent Link to"
+msgstr "Enlace permanente a"
+
+#: lib/functions/bm_widgets.php:270
+msgid "More from this category"
+msgstr "Mas de esta categoria"
+
+#: lib/functions/bm_widgets.php:328
+msgid "More from this author"
+msgstr "Mas de este autor"
+
+#: lib/functions/bm_widgets.php:381
+msgid "Posted by"
+msgstr "Publicado por"
+
+#: lib/functions/bm_widgets.php:411
+msgid "Share This"
+msgstr "Compartelo"
+
+#: lib/functions/bm_widgets.php:434
+msgid "Twitter Updates"
+msgstr "Twitter Updates"
+
+#: lib/functions/bm_widgets.php:509
+#: lib/functions/bm_widgets.php:516
+msgid "Subscribe to updates"
+msgstr "Suscribirse a actualizaciones"
+
+#: lib/functions/bm_widgets.php:542
+msgid "Upcoming Posts"
+msgstr "Proximos Articulos"
+
