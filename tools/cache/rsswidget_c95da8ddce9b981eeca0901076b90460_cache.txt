@@ -1,0 +1,38 @@
+s:2188:"<img class="favicon" width="16" height="16" src="http://sports.cbsimg.net/favicon.ico" alt="favicon" /><a href="http://www.cbssports.com">CBS Sports</a></span></h3></div>	<ul class="feed-item">
+			<li>
+				<a href="http://www.cbssports.com/collegefootball/blog/eye-on-college-football/23207299/alabama-cb-geno-smith-arrested-charged-with-dui" rel="nofollow" class="tt">Alabama CB Geno Smith arrested, charged with DUI</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+According to the Tuscaloosa County Sheriff's Office, Alabama sophomore Geno Smith was arrested for driving under the influence early Sunday.					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://www.cbssports.com/collegefootball/blog/eye-on-college-football/23208547/fellow-heisman-winner-ricky-williams-rips-manziel" rel="nofollow" class="tt">Fellow Heisman winner Ricky Williams rips Manziel</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Former Heisman Trophy winner Ricky Williams, asked about Johnny Manziel's handling of the increased exposure, was critical of the QB's habits.					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://www.cbssports.com/mlb/writer/jon-heyman/23196126/arod-escalates-war-with-yankees-team-responds-with-a-challenge" rel="nofollow" class="tt">Yankees, A-Rod in battle over medical treatment</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Yankees, A-Rod in battle over medical treatment					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://www.cbssports.com/mlb/eye-on-baseball/23194239/miguel-tejada-suspended-for-105-games-for-amphetamines" rel="nofollow" class="tt">M. Tejada banned 105 games for amphetamines</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+M. Tejada banned 105 games for amphetamines					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://www.cbssports.com/mlb/eye-on-baseball/23196304/jerry-remy-releases-statement-after-son-linked-to-murder" rel="nofollow" class="tt">Jerry Remy disgusted with son&#039;s murder charge</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Jerry Remy disgusted with son's murder charge					</div>
+				</div>
+			</li>
+    </ul>
+";

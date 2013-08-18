@@ -747,9 +747,11 @@ function bm_doHomepageTabs () {
 		}
 	}
 ?>
+	<div class="nav-wrap">
 	<ul id="tabber" class="ui-tabs-nav">
 		<?php echo $tabList; ?>
 	</ul>
+	</div>
 	
 	<div class="panes"> 
 		<?php echo $paneList; ?>

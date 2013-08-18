@@ -1,0 +1,38 @@
+s:2047:"<img class="favicon" width="16" height="16" src="http://ireport.cnn.com/favicon.ico" alt="favicon" /><a href="http://www.sportsillustrated.com">Sports Illustrated</a></span></h3></div>	<ul class="feed-item">
+			<li>
+				<a href="http://blogs.golf.com/presstent/2013/08/dustin-johnson-and-paulina-gretzky-get-engaged.html?xid=si_topstories" rel="nofollow" class="tt">Golfer Johnson, Paulina Gretzky get engaged</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://sportsillustrated.cnn.com/mlb/news/20130818/kirk-gibson-ryan-braun/?xid=si_topstories" rel="nofollow" class="tt">Kirk Gibson: &#039;Cheaters&#039; like Braun rob players</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+PITTSBURGH (AP) -- Kirk Gibson would like to have a private conversation with disgraced slugger Ryan Braun.					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://nfl.si.com/2013/08/18/dustin-kellery-knee-injury-dolphins-texans-preseason/?xid=si_topstories" rel="nofollow" class="tt">Dolphins TE Keller (knee injury) done for season</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://mmqb.si.com/2013/08/16/qualcomm-stadium/?xid=si_topstories" rel="nofollow" class="tt">Crumbling Qualcomm Stadium a sore sight for Chargers, fans</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+The Chargers brought in a whole new front office and coaching staff. But a new home is still a pipe dream.					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://sportsillustrated.cnn.com/more/news/20130818/jamaica-wins-4-x-100-relay-sweeps-sprint-events/?xid=si_topstories" rel="nofollow" class="tt">Jamaica wins 4x100 relay, sweeps World sprints</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+MOSCOW (AP)  Usain Bolt won his third gold medal of the world championships, anchoring Jamaica to victory in the 4x100-meter relay on Sunday.					</div>
+				</div>
+			</li>
+    </ul>
+";

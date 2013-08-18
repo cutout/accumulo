@@ -1,0 +1,38 @@
+s:2457:"<img class="favicon" width="16" height="16" src="http://static.bleacherreport.net/favicon.ico" alt="favicon" /><a href="http://www.bleacherreport.com">Bleacher Report</a></span></h3></div>	<ul class="feed-item">
+			<li>
+				<a href="http://bleacherreport.com/articles/1742177-chael-sonnens-impressive-win-over-shogun-rua-shows-hes-far-from-finished" rel="nofollow" class="tt">Chael Sonnen&#039;s Impressive Win Over Shogun Rua Shows He&#039;s Far From Finished</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Heading into his fight against Mauricio "Shogun" Rua, Chael Sonnen had lost two fights in a row ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://bleacherreport.com/articles/1742128-solheim-cup-2013-biggest-takeaways-from-controversial-tourney" rel="nofollow" class="tt">Solheim Cup 2013: Biggest Takeaways from Controversial Tourney</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+The end result of the 2013 edition of the Solheim Cup is all but assured with Europe heading into ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://bleacherreport.com/articles/1742095-little-league-world-series-2013-players-to-watch-in-late-games-on-sunday" rel="nofollow" class="tt">Little League World Series 2013: Players to Watch in Late Games on Sunday</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Grant Holman and Kazuki Ishida were stars for the West and Japan respectively on Friday, as both ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://bleacherreport.com/articles/1742133-fantasy-football-2013-top-players-on-new-teams-worth-drafting" rel="nofollow" class="tt">Fantasy Football 2013: Top Players on New Teams Worth Drafting</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+The 2013 NFL season features numerous top players on new teams, which is always an intriguing topic for fantasy football. Arizona ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://bleacherreport.com/articles/1742007-bundesliga-wrap-bayern-munich-borussia-dortmund-stay-perfect-with-tight-wins" rel="nofollow" class="tt">Bundesliga Wrap: Bayern Munich, Borussia Dortmund Stay Perfect with Tight Wins</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Two teams, two favorites. Four matches, four wins and six points each. Bayern Munich and Borussia Dortmund are both off to solid starts in the ...					</div>
+				</div>
+			</li>
+    </ul>
+";

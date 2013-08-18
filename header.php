@@ -93,7 +93,6 @@ if (is_single ()) {
 
 
 <div id="main">
-<div class="wrapper">
 <?php
 	bm_banner ('header');
 ?>

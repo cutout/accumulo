@@ -6,8 +6,12 @@ Template Name: Blog
 get_header();
 
 ?>
-
-<div id="content">
+<div class="title-wrap">
+	<div class="wrapper">
+		<h1 class="pagetitle"><?php the_title(); ?></h1>
+	</div>	
+</div>
+<div class="wrapper">
 <?php
 	$page = (get_query_var ('paged')) ? get_query_var ('paged') : 1;
 	$query = new WP_Query ('paged=' . $page);
@@ -26,9 +30,7 @@ get_header();
 	}
 ?>
 
-</div><!--/content-->
-
+</div>	
 <?php
-	get_sidebar();
 	get_footer();
 ?>

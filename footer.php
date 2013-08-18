@@ -1,7 +1,6 @@
 <?php
 	bm_banner ('footer');
 ?>
-				</div><!--/wrapper-->
 			</div><!--/main-->
 
 			<div id="widgets-bottom">
@@ -15,8 +14,13 @@
 		</div>
 
 		<div id="footer">
-			&#169;<?php echo date('Y'); ?> <span class="url fn org"><?php bloginfo('name'); ?></span>, <?php _e('All Rights Reserved','accumulo'); ?>
-			<?php wp_footer(); ?>
+			<div class="wrapper">
+				<div class="copyright">
+				&#169;<?php echo date('Y'); ?> <span class="url fn org"><?php bloginfo('name'); ?></span> &bull; Powered by <a href="http://www.wordpress.com">WordPress</a> &amp; <a href="http://www.prothemedesign.com">Pro Theme Design</a>
+				<?php wp_footer(); ?>
+				</div>
+				<?php get_template_part('content','searchform'); ?>
+			</div>
 		</div><!--/footer-->
 
 		<script type="text/javascript">

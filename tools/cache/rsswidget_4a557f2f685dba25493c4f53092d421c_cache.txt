@@ -1,0 +1,38 @@
+s:2038:"<img class="favicon" width="16" height="16" src="http://ireport.cnn.com/favicon.ico" alt="favicon" /><a href="http://www.cnn.com">CNN</a></span></h3></div>	<ul class="feed-item">
+			<li>
+				<a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/7s7OuCzYFuA/index.html" rel="nofollow" class="tt">Fatal fall at hotel bachelor party</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+A man celebrating his friend's impending marriage fell to his death from a Black Hawk, Colorado, hotel widow early Saturday, police said.					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/BISlmpTmVHQ/index.html" rel="nofollow" class="tt">Could James Dean save J. C. Penney?</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+The answer to J. C. Penney's endless woes is right in front of its corporate eyes.					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/-cpECDUmtbc/index.html" rel="nofollow" class="tt">10 warning signs</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+More than 5 million Americans are living with Alzheimer's today, with another person developing the disease every 68 seconds. By 2050, the number of people ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/86bzNcaDGgs/index.html" rel="nofollow" class="tt">Children of Chernobyl seek answers</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Establishing a relationship between disease and radiation exposure is not clear-cut, experts say.    ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/QRg5YRgpNrs/gupta-alzheimers-retinal-imaging.cnn.html" rel="nofollow" class="tt">A test for Alzheimer&#039;s</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+CNN's Dr. Sanjay Gupta reports on a new eye exam aimed at diagnosing Alzheimer's earlier to accelerate treatment options					</div>
+				</div>
+			</li>
+    </ul>
+";

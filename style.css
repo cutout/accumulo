@@ -40,8 +40,12 @@ body,html {
 	}
 	
 body {
-	background: #333333;
+	background: #d4d6da;
 	color: #111;
+	}
+
+.pane .widget h3, .nav-wrap {
+	background: #3a4046;
 	}
 
 body, select, input, textarea {
@@ -54,11 +58,12 @@ p {
 	}
 
 a, a:visited {
-	color: #83A7BA; 
+	color:#9dadbd;	
+	text-decoration: none;
 	}
 
 a:hover, a:active {
-	color:#4d778d;
+	color:#fff;
 	}
 				
 a img {
@@ -113,28 +118,29 @@ a:hover, li:hover, img:hover {
 
 #branding {
 	float: left;
-	width:450px;
+	width:80%;
 	}
 
 #top {
-	padding: 4px 0 7px;
-	border-bottom: 1px solid #FFF;
+	padding: 14px 0 18px;
+	border-bottom: 6px solid #d4d6da;
+	background: #f6f5f2;
 	}
 
 .masthead {
 	height:60px;
 	}
 	
-	
 #main {
 	overflow:hidden;
-	background: #FFF;
-	padding: 30px 0;
-	border-bottom: 6px solid #e7e7e7;
-	border-top: 6px solid #eee;
+	padding-bottom: 50px;
 }
 
-.wrapper {
+#main, .ui-tabs-nav a.current {
+	background: #4a525a !important;
+	}
+
+.wrapper, #tabber {
 	width:1140px;
 	margin:0 auto;
 	}
@@ -179,10 +185,8 @@ h1, h2, h3, h4, h5, h6 {
 	}
 	
 h1.pagetitle, h1.posttitle {
-	font-size: 2.5em;
-	border-bottom:1px solid #D7D7D7;
-	margin-bottom:20px;
-	padding-bottom:12px;
+	font-size: 2.2em;
+	font-weight: normal
 	}
 
 .entry h2 {
@@ -213,7 +217,6 @@ h3 {
 	color: #a6a6a6;
 	margin-bottom: 3px;
 	font-size:.9em;
-	text-shadow: 0 1px 0 #FFF;
 }
 
 .widget_position_0 {
@@ -254,6 +257,10 @@ h3.widgettitle a, h3.widgettitle a:visited {
 	font-size:1.5em;
 	text-transform: none
 	}
+
+.panes .widget h3 {
+	padding: 10px 12px;
+	}
 	
 #respond h3, h3#comments, h3#trackbacks {
 	margin:45px 0 20px;
@@ -285,25 +292,27 @@ h6 {
 	
 /* ---------- @ Content Styles -----------*/
 
+.title-wrap {
+	background: #d4d6da;
+	padding: 7px 0 14px
+	}
+
 #logo {
 	float: left;
 	margin: 18px 13px 0 0;
-	font:bold 1.3em 'Helvetica Neue',Helvetica,Arial;
+	font:bold 2em 'Helvetica Neue',Helvetica,Arial;
 	background: url(images/logo.png) no-repeat;
-	padding: 3px 0 0 32px;
-	height: 28px;
-	text-transform: uppercase;
-	color: #e4e4e4;
+	padding: 3px 0 0 58px;
+	height: 41px;
 	}
 
 #logo a, #logo a:visited {
 	text-decoration: none;
-	color: #e4e4e4;
 	display: block
 	}
 
-#logo a:hover {
-	text-decoration: underline
+#top, #logo a, #logo a:visited {
+	color: #3f3d39;
 	}
 
 #logo a:active {
@@ -311,22 +320,30 @@ h6 {
 	}
 		
 #description {
-	font: italic 1em Georgia, "Times New Roman", Times, serif;
-	color:#9a9a9a;
-	float:left;
-	width: 280px;
-	margin-top: 24px;
+	font: 1em Georgia, "Times New Roman", Times, serif;
+	float: left;
+	margin-top: 23px;
+	border-left: 1px solid #5e5c58;
+	padding: 6px 20px;
+	margin-left: 8px;
 	}
 		
 .item-row-position-0 { 
 	clear:both; 
 	}
+
+.pane {
+	width:100%;
+	margin:0 auto
+	}
 		
 .panes .widget {
 	float:left;
-	margin: 23px 24px 23px 24px;
+	margin: 22px 12px;
 	width:29%;
 	list-style: none;
+	border: 6px solid #5d6871;
+	background: #fff;
 	}
 
 .panes #sidebar .widget {
@@ -349,6 +366,7 @@ h6 {
 
 .widget ul.feed-item {
 	margin:0;
+	padding: 0 10px;
 }
 
 .widget .feed-item.item-row-position-2 {
@@ -356,19 +374,26 @@ h6 {
 }
 		 
 .widget .feed-item li {
-	border-bottom:1px dotted #999;
-	padding:8px 0;
+	padding:8px 12px 8px 20px;
 	line-height:145%;
 	list-style: none;
 	background:transparent;
 	position:static;
+	background-image: url(images/arrow-feed.png);
+	background-repeat: no-repeat;
+	background-position: 10px 12px
 }
+
+.widget .feed-item li:nth-child(even) {
+	background-color: #e6e6e6;
+	}
 
 .widget .feed-item a,
 .widget .feed-item a:visited {
 	color:#111;
 	text-decoration:none;
 	border:none;
+	display: block
 }
 
 .widget .feed-item a:hover,
@@ -382,14 +407,14 @@ h6 {
 }
 
 .tooltipContainer {
-	background:#eee url(images/bg_tooltip.png) no-repeat;
-	border:5px solid #e6e5e5;	
-	padding:18px;
+	background:#fff;
+	border:5px solid #cdcccc;	
+	padding:15px 22px;
 	color:#333;
 	width:260px;
 	font:italic 1em Georgia, "Times New Roman", Times, serif;
 	line-height:165%;
-	margin:0 15px;
+	margin:0 15px 0 -15px;
 	z-index:999;
 	position:relative;
 }
@@ -402,25 +427,25 @@ h6 {
 a#arrow-top	{
 	text-indent: -999em;
 	display: block;
-	background: url(images/arrow-top.png);
+	background: rgba(27,32,37,.8);
+	border-radius: 100em;
 	position:fixed;
 	bottom:40px;
 	height: 37px;
 	width: 37px;
+	border: 2px solid #5b6570;
 	right: 40px;
+	display: none !important;
 	}
 	
 a#arrow-top:hover {
-	background: url(images/arrow-top.png) 0 -37px;
+	background: rgba(27,32,37,1);
 	}
-	
-a#arrow-top:active {
-	background: url(images/arrow-top.png) 0 -74px;
-	}	
 
 .favicon {
-	vertical-align: middle;
+	vertical-align: bottom;
 	margin-right: 7px;
+	background: #fff;
 	}
 	
 			
@@ -486,7 +511,16 @@ a #icon-rss {
 	vertical-align: middle;
 	margin-left:3px;
 	}		
-		
+
+.searchform {
+	padding: 7px 12px
+	}
+
+.searchfield {
+	border: none;
+	padding: 2px 8px;
+	}		
+
 	
 
 /*Sidebar and Widgets*/
@@ -617,10 +651,7 @@ a.rsswidget, a.rsswidget:visited {
 /*Bottom Widgets*/	
 
 #widgets-bottom {
-	background: #eee url(images/bg_widgetbot.png) no-repeat center bottom;
-	padding: 20px 0 40px;
-	border-top: 1px solid #f3f3f3;
-	border-bottom: 1px solid #FFF;
+	background: #eee;
 	overflow: hidden;
 	}
 
@@ -631,10 +662,6 @@ a.rsswidget, a.rsswidget:visited {
 	color:#111;
 	text-decoration: none;
 	border-bottom: 1px dotted #c5c5c5;
-	}
-
-.widget li a:hover {
-	border-bottom: 1px solid #787878;
 	}
 
 .widget li a:active {
@@ -751,20 +778,31 @@ a.rsswidget, a.rsswidget:visited {
 
 #footer {
 	overflow:hidden;
-	color: #CCCCCC;
-	padding:20px 0;
-	text-align: center;
-	border-top: 1px solid #000;
+	padding:50px 0;
+	color: #3f4249;
 	}
-		
+
 #footer a, #footer a:visited {
-	text-decoration:none
+	color: #697f95;
+	border-bottom: 1px solid #9c9ea4;
+	font-weight: bold
 	}
-	
+
 #footer a:hover, #footer a:active {
-	color:#FFF;
+	color: #344658;
+	}
+
+.copyright {
+	float: left;
+	width: 70%;
+	margin-top: 10px
 	}	
-	
+		
+.searchform {
+	float: right;
+	background: #fff;
+	border-radius: 50em;
+	}
 	
 /* ---------- @ Admin Bar ---------------- */
 /* administration bar */
@@ -832,7 +870,7 @@ a.rsswidget, a.rsswidget:visited {
 
 .tabLoading {
 	padding:50px;
-	background:url(images/loadStrip.gif) center center no-repeat;
+	background:url(images/ajax-loader.gif) center center no-repeat;
 }
 
 #tabBlogContent {
