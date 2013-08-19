@@ -30,8 +30,9 @@
 	text-decoration: none;
 	}
 
-#tabber a:hover, #tabber a:active {
-	background: #32373d;
+#tabber a:hover, #tabber a:active, 
+.pane .widget:hover h3:hover {
+	background: #2e3237
 	}	
 		
 .nav a:active, .nav a:hover {

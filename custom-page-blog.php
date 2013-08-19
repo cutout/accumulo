@@ -11,7 +11,9 @@ get_header();
 		<h1 class="pagetitle"><?php the_title(); ?></h1>
 	</div>	
 </div>
-<div class="wrapper">
+
+<div class="wrapper bg-page">
+<div class="col-content">
 <?php
 	$page = (get_query_var ('paged')) ? get_query_var ('paged') : 1;
 	$query = new WP_Query ('paged=' . $page);
@@ -29,8 +31,10 @@ get_header();
 <?php
 	}
 ?>
+</div>
+<?php get_sidebar(); ?>
+</div>
 
-</div>	
-<?php
+<?php 
 	get_footer();
 ?>

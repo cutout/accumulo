@@ -1,37 +1,37 @@
-s:2457:"<img class="favicon" width="16" height="16" src="http://static.bleacherreport.net/favicon.ico" alt="favicon" /><a href="http://www.bleacherreport.com">Bleacher Report</a></span></h3></div>	<ul class="feed-item">
+s:2428:"<img class="favicon" width="16" height="16" src="http://static.bleacherreport.net/favicon.ico" alt="favicon" /><a href="http://www.bleacherreport.com">Bleacher Report</a></span></h3></div>	<ul class="feed-item">
 			<li>
-				<a href="http://bleacherreport.com/articles/1742177-chael-sonnens-impressive-win-over-shogun-rua-shows-hes-far-from-finished" rel="nofollow" class="tt">Chael Sonnen&#039;s Impressive Win Over Shogun Rua Shows He&#039;s Far From Finished</a>
+				<a href="http://bleacherreport.com/articles/1742494-joe-girardi-ejected-after-alex-rodriguez-is-drilled-by-red-sox-ryan-dempster" rel="nofollow" class="tt">Joe Girardi Ejected After Alex Rodriguez Is Drilled by Red Sox Ryan Dempster</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-Heading into his fight against Mauricio "Shogun" Rua, Chael Sonnen had lost two fights in a row ...					</div>
+Anything goes when the New York Yankees and Boston Red Sox get together. The two bitter American League East foes added ...					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://bleacherreport.com/articles/1742128-solheim-cup-2013-biggest-takeaways-from-controversial-tourney" rel="nofollow" class="tt">Solheim Cup 2013: Biggest Takeaways from Controversial Tourney</a>
+				<a href="http://bleacherreport.com/articles/1737675-wwe-summerslam-2013-results-alberto-del-rio-retains-world-title" rel="nofollow" class="tt">WWE SummerSlam 2013 Results: Alberto Del Rio Retains World Title</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-The end result of the 2013 edition of the Solheim Cup is all but assured with Europe heading into ...					</div>
+Alberto Del Rio remains one of the strongest heels in WWE after successfully defending his World Heavyweight Championship against ...					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://bleacherreport.com/articles/1742095-little-league-world-series-2013-players-to-watch-in-late-games-on-sunday" rel="nofollow" class="tt">Little League World Series 2013: Players to Watch in Late Games on Sunday</a>
+				<a href="http://bleacherreport.com/articles/1742460-little-league-world-series-2013-results-biggest-surprises-from-sundays-action" rel="nofollow" class="tt">Little League World Series 2013 Results: Biggest Surprises from Sunday&#039;s Action</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-Grant Holman and Kazuki Ishida were stars for the West and Japan respectively on Friday, as both ...					</div>
+Blowouts are prone to happen in little league baseball, but nobody expected the surprising results coming out of South					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://bleacherreport.com/articles/1742133-fantasy-football-2013-top-players-on-new-teams-worth-drafting" rel="nofollow" class="tt">Fantasy Football 2013: Top Players on New Teams Worth Drafting</a>
+				<a href="http://bleacherreport.com/articles/1742488-neymars-integration-will-make-barca-attack-unstoppable" rel="nofollow" class="tt">Neymar&#039;s Integration Will Make Barca Attack Unstoppable</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-The 2013 NFL season features numerous top players on new teams, which is always an intriguing topic for fantasy football. Arizona ...					</div>
+Barcelona were incredible on the attack during Neymar&rsquo;s La Liga debut, but the side will become ...					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://bleacherreport.com/articles/1742007-bundesliga-wrap-bayern-munich-borussia-dortmund-stay-perfect-with-tight-wins" rel="nofollow" class="tt">Bundesliga Wrap: Bayern Munich, Borussia Dortmund Stay Perfect with Tight Wins</a>
+				<a href="http://bleacherreport.com/articles/1742467-we-remember-kobe-bryants-dunk-on-yao-ming-in-2003" rel="nofollow" class="tt">We Remember Kobe Bryant&#039;s Dunk on Yao Ming in 2003</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-Two teams, two favorites. Four matches, four wins and six points each. Bayern Munich and Borussia Dortmund are both off to solid starts in the ...					</div>
+In one of the most talked-about dunks of his career, Kobe Bryant threw down a massive dunk over Rockets center ...					</div>
 				</div>
 			</li>
     </ul>

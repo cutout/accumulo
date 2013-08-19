@@ -44,9 +44,11 @@ body {
 	color: #111;
 	}
 
-.pane .widget h3, .nav-wrap {
+.widget h3, .nav-wrap {
 	background: #3a4046;
+	color: #fff;
 	}
+
 
 body, select, input, textarea {
 	font: 100% Georgia, "Times New Roman", Times, serif;
@@ -107,7 +109,7 @@ blockquote {
 	letter-spacing:.03em;
 	}
 	
-a:hover, li:hover, img:hover {
+a:hover, li:hover, img:hover, h3:hover {
 	-webkit-transition: all 0.3s linear;
 	-moz-transition: all 0.3s linear;
 	transition: all 0.3s linear;
@@ -141,8 +143,9 @@ a:hover, li:hover, img:hover {
 	}
 
 .wrapper, #tabber {
-	width:1140px;
+	max-width:1140px;
 	margin:0 auto;
+	padding: 0 12px;
 	}
 
 .single #content,
@@ -174,7 +177,27 @@ a:hover, li:hover, img:hover {
 	float:right
 }
 	
-		
+.col-content {
+	float: left;
+	width:77%;
+	background: #fff;
+	}
+
+#sidebar {
+	float: right;
+	width:20%;
+	}
+	
+.bg-page {
+	overflow: hidden;
+	margin-top: 28px;
+	}
+
+.widget, .col-content {	
+	border: 6px solid #5d6871;
+	background: #fff;
+	}
+					
 		
 	
 /* ---------- @ Headers -----------*/
@@ -230,6 +253,8 @@ h3 {
 
 h3.widgettitle a, h3.widgettitle a:visited {
 	text-decoration: none;
+	display: block;
+	padding-top: 2px;
 }
 
 .widget_bm_rsssummary li.article img {
@@ -246,19 +271,13 @@ h3.widgettitle a, h3.widgettitle a:visited {
 #footer h3 {
 	border-color:#757575
 	}
-	
-#sidebar h3 {
-	color:#939393;
-	font-size:.85em;
-	text-transform:uppercase
-	}
 
 .entry h3 {
 	font-size:1.5em;
 	text-transform: none
 	}
 
-.panes .widget h3 {
+.widget h3 {
 	padding: 10px 12px;
 	}
 	
@@ -291,6 +310,7 @@ h6 {
 	
 	
 /* ---------- @ Content Styles -----------*/
+
 
 .title-wrap {
 	background: #d4d6da;
@@ -342,8 +362,6 @@ h6 {
 	margin: 22px 12px;
 	width:29%;
 	list-style: none;
-	border: 6px solid #5d6871;
-	background: #fff;
 	}
 
 .panes #sidebar .widget {
@@ -446,6 +464,7 @@ a#arrow-top:hover {
 	vertical-align: bottom;
 	margin-right: 7px;
 	background: #fff;
+	float: left
 	}
 	
 			
@@ -526,14 +545,8 @@ a #icon-rss {
 /*Sidebar and Widgets*/
 
 #sidebar .widget {
-	margin-bottom:24px;
+	margin-bottom:20px;
 	overflow:hidden;
-	background: #f1f6f8 url(images/highlight.png) repeat-x;
-	padding: 32px 22px 22px;
-	border:1px solid #dae1e5;
-	-moz-box-shadow: 2px 2px 0 0 #dae1e5;
-	-webkit-box-shadow: 2px 2px 0 0 #dae1e5;
-	box-shadow: 2px 2px 0 0 #dae1e5;
 	}
 	
 #sidebar .widget li {
@@ -632,15 +645,6 @@ a.rsswidget, a.rsswidget:visited {
 #wp125adwrap_2c div+div {
 	margin:0 !important;
 	}
-	
-#sidebar h3.widgettitle span {
-	background: #9cbeae;
-	color: #FFF;
-	padding: 3px 8px 3px;
-	margin:-23px 0 0 -28px;
-	position: absolute;
-	line-height:16px;
-}
 
 
 .authorLink .avatar {

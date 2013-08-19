@@ -1,9 +1,9 @@
-s:2188:"<img class="favicon" width="16" height="16" src="http://sports.cbsimg.net/favicon.ico" alt="favicon" /><a href="http://www.cbssports.com">CBS Sports</a></span></h3></div>	<ul class="feed-item">
+s:2288:"<img class="favicon" width="16" height="16" src="http://sports.cbsimg.net/favicon.ico" alt="favicon" /><a href="http://www.cbssports.com">CBS Sports</a></span></h3></div>	<ul class="feed-item">
 			<li>
-				<a href="http://www.cbssports.com/collegefootball/blog/eye-on-college-football/23207299/alabama-cb-geno-smith-arrested-charged-with-dui" rel="nofollow" class="tt">Alabama CB Geno Smith arrested, charged with DUI</a>
+				<a href="http://www.cbssports.com/mlb/eye-on-baseball/23210639/report-arod-has-started-process-of-filing-grievance-againt-yankees" rel="nofollow" class="tt">Report: A-Rod looks at filing grievance vs. Yanks</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-According to the Tuscaloosa County Sheriff's Office, Alabama sophomore Geno Smith was arrested for driving under the influence early Sunday.					</div>
+Report: A-Rod looks at filing grievance vs. Yanks					</div>
 				</div>
 			</li>
 			<li>
@@ -14,24 +14,24 @@ Former Heisman Trophy winner Ricky Williams, asked about Johnny Manziel's handli
 				</div>
 			</li>
 			<li>
-				<a href="http://www.cbssports.com/mlb/writer/jon-heyman/23196126/arod-escalates-war-with-yankees-team-responds-with-a-challenge" rel="nofollow" class="tt">Yankees, A-Rod in battle over medical treatment</a>
+				<a href="http://www.cbssports.com/nba/eye-on-basketball/23209864/report-celtics-think-they-need-a-coach-to-reach-rondo" rel="nofollow" class="tt">Reports: Celts seek assistant to deal with Rondo</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-Yankees, A-Rod in battle over medical treatment					</div>
+Reports: Celts seek assistant to deal with Rondo					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://www.cbssports.com/mlb/eye-on-baseball/23194239/miguel-tejada-suspended-for-105-games-for-amphetamines" rel="nofollow" class="tt">M. Tejada banned 105 games for amphetamines</a>
+				<a href="http://www.cbssports.com/collegefootball/blog/eye-on-college-football/23209871/ncaa-rules-force-marine-to-redshirt-over-intramural-games" rel="nofollow" class="tt">NCAA rules force Marine to redshirt over &#039;intramural&#039; games</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-M. Tejada banned 105 games for amphetamines					</div>
+A former Marine walking on at Middle Tennessee St. must redshirt over an NCAA rule that mandates a year off for any 'organized competition.'					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://www.cbssports.com/mlb/eye-on-baseball/23196304/jerry-remy-releases-statement-after-son-linked-to-murder" rel="nofollow" class="tt">Jerry Remy disgusted with son&#039;s murder charge</a>
+				<a href="http://www.nascar.com/en_us/news-media/articles/2013/08/18/nascar-michigan-results-sprint-cup-series-pure-michigan-400-michigan-international-speedway-400.html" rel="nofollow" class="tt">Logano tops Harvick in fuel battle, wins Michigan</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-Jerry Remy disgusted with son's murder charge					</div>
+Logano tops Harvick in fuel battle, wins Michigan					</div>
 				</div>
 			</li>
     </ul>
