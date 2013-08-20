@@ -1,37 +1,37 @@
-s:3314:"<img class="favicon" width="16" height="16" src="http://www.google.com/s2/favicons?domain=" alt="favicon" /><a href="http://news.google.com">Google News</a></span></h3></div>	<ul class="feed-item">
+s:3463:"<img class="favicon" width="16" height="16" src="http://www.google.com/s2/favicons?domain=" alt="favicon" /><a href="http://news.google.com">Google News</a></span></h3></div>	<ul class="feed-item">
 			<li>
-				<a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNGiAfJCYNvJoIxXmvStdX125UmWow&amp;url=http://abcnews.go.com/Sports/wireStory/prosecutors-pistorius-trial-early-year-19979176" rel="nofollow" class="tt">Pistorius to Be Indicted, Trial in Early 2014 - ABC News</a>
+				<a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNHlo7XtoDnsN-r_EKy3-1dFM4BiyA&amp;url=http://www.latimes.com/local/lanow/la-me-ln-ted-cruz-birth-certificate-flap-20130820,0,6160343.story" rel="nofollow" class="tt">Ted Cruz, the Canadian, received the kind of healthcare he now scorns - Los Angeles Times</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-<img src="http://localhost/wordpress/wp-content/themes/accumulo/tools/timthumb.php?w=75&amp;h=60&amp;src=http://ANd9GcTcsiG9IyuCB_GHZB-IzgzwE5uXaEYuEvOHI9RMrsIrumrDVWmqnaRfJhAbUzKcqdha4GImfR-7" width="75" height="60" title="thumbnail" />National Post					</div>
+<img src="http://localhost/wordpress/wp-content/themes/accumulo/tools/timthumb.php?w=75&amp;h=60&amp;src=http://ANd9GcRRCxWTkLIpEhTq0SGlsJjHpN6syQgirhcV8875Crz7EKiOBHbVFa7l9XYLMLxOq76nUnMy5okC" width="75" height="60" title="thumbnail" />Toronto Star					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNHVMBOQ1tEoWhFUnc8Yprkeo43BRw&amp;url=http://www.bbc.co.uk/news/world-asia-23729996" rel="nofollow" class="tt">Philippines ferry crash leaves at least five dead - BBC News</a>
+				<a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNEeGL66Z6v97mRbhhDwcyCWwlu_Sg&amp;url=http://www.bbc.co.uk/news/world-middle-east-23773489" rel="nofollow" class="tt">Egypt crisis: Brotherhood condemns Mohammad Badie arrest - BBC News</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-<img src="http://localhost/wordpress/wp-content/themes/accumulo/tools/timthumb.php?w=75&amp;h=60&amp;src=http://ANd9GcQ4dIwz-FhigbH4alnWn9rDqH9NUwSCXkdW7KYhrL8t1vgl8Hg603quLHuk1gj76isKvPMUGcs" width="75" height="60" title="thumbnail" />CTV News					</div>
+<img src="http://localhost/wordpress/wp-content/themes/accumulo/tools/timthumb.php?w=75&amp;h=60&amp;src=http://ANd9GcS6plussLh0S5anLJcpubnjR_qr7c2URSrt7FBE-00keS4ifE1QkzqhzQTZuSOoOioGrtLwfWI" width="75" height="60" title="thumbnail" />AFP					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNEf_GkYuX5P6e8uFZGPBUPpLT1-_Q&amp;url=http://www.miamiherald.com/2013/08/15/3564238/obama-to-address-situation-in.html" rel="nofollow" class="tt">US scraps military drills with Egypt - MiamiHerald.com</a>
+				<a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNF_p1h7zzZKjk-FWp0hWmJ4XUEYQg&amp;url=http://www.haaretz.com/news/middle-east/1.542618" rel="nofollow" class="tt">White House denies cutting off aid to Egypt - Haaretz</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-<img src="http://localhost/wordpress/wp-content/themes/accumulo/tools/timthumb.php?w=75&amp;h=60&amp;src=http://ANd9GcSiqVm5c8XWG5IhNwtVvhi9IXqayUHM7reiFHRKQehSgqtyW0U3lQkwixKPOEKbE8KDKzUZ8Wc" width="75" height="60" title="thumbnail" />Economic Times					</div>
+<img src="http://localhost/wordpress/wp-content/themes/accumulo/tools/timthumb.php?w=75&amp;h=60&amp;src=http://ANd9GcQsCVP37Xdnpzp8lv8zBM6JztYlM1jjxiRXDbnQKWpFJxHvMVzXyDxENTVxfJmO9gpfCdK2i6F8" width="75" height="60" title="thumbnail" />Haaretz					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNHogCkBOEco9Nx99ucn9L3tr0cM5g&amp;url=http://www.bbc.co.uk/news/world-middle-east-23732350" rel="nofollow" class="tt">Egypt crisis: Death toll rises as violence spreads - BBC News</a>
+				<a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNEmzvleSmtP93kP4UNZjlZoCjmLSw&amp;url=http://www.voanews.com/content/man-detained-over-snowden-documents-taking-legal-action-against-britain/1733302.html" rel="nofollow" class="tt">Man Detained over Snowden Documents Taking Legal Action Against Britain - Voice of America</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-<img src="http://localhost/wordpress/wp-content/themes/accumulo/tools/timthumb.php?w=75&amp;h=60&amp;src=http://ANd9GcSvQ1sSH0hAS66uEaYP_5sAUBqI2Sd52RrPdoChMILHz24gwFUBTYWBDHdG8P9iLjZRp5Q0IXM" width="75" height="60" title="thumbnail" />BBC News					</div>
+<img src="http://localhost/wordpress/wp-content/themes/accumulo/tools/timthumb.php?w=75&amp;h=60&amp;src=http://ANd9GcSXZEs2mvq4Zjs6_hEA6-4LgbLRmQMrPFRzENbT_UNh5nwr20B39TGAy940M7tiXeurX3O6udI" width="75" height="60" title="thumbnail" />Voice of America					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNFKkbyU2MWE4irk9wMTjmpYqeRkJw&amp;url=http://www.nytimes.com/2013/08/17/world/asia/india-submarine.html" rel="nofollow" class="tt">Divers Recover 4 Bodies From Sunken Indian Submarine - New York Times (blog)</a>
+				<a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;usg=AFQjCNHhPsGf4qfE10LyDLorJw2Ht06AsQ&amp;url=http://www.foxnews.com/politics/2013/08/20/claim-egypt-aid-cut-off-fuels-confusion-over-administration-policy/" rel="nofollow" class="tt">Claim of Egypt aid cut-off fuels confusion over Obama policy - Fox News</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-<img src="http://localhost/wordpress/wp-content/themes/accumulo/tools/timthumb.php?w=75&amp;h=60&amp;src=http://ANd9GcSLFyO-feS3PvLHJ4qYlwOzIoHIF_KageBNPQnGDzrUvMu_IeGjxHREc5UE-1Rw1Emb_dLFClSL" width="75" height="60" title="thumbnail" />New York Times (blog)					</div>
+<img src="http://localhost/wordpress/wp-content/themes/accumulo/tools/timthumb.php?w=75&amp;h=60&amp;src=http://ANd9GcShlXg3ElgQkg9SmmXfzcBSOHxWoa587XoOOWyuberD52LwZwT8gIcqZN9NTDmxZPv47AC9obo" width="75" height="60" title="thumbnail" />Telegraph.co.uk					</div>
 				</div>
 			</li>
     </ul>
