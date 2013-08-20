@@ -1,6 +1,13 @@
 <?php
 	get_header();
 ?>
+
+<div class="title-wrap">
+	<div class="wrapper">
+		<h1 class="pagetitle"><?php the_title(); ?></h1>
+	</div>	
+</div>
+<div class="wrapper">
 	<div id="content">
 <?php
 	if (have_posts()) {
@@ -17,6 +24,9 @@
 ?>        
     </div>
 <?php
-	get_sidebar ();
+	get_sidebar ();?>
+	
+	</div>
+<?php	
 	get_footer();
 ?>

@@ -1,4 +1,25 @@
-s:2287:"<img class="favicon" width="16" height="16" src="http://www.google.com/s2/favicons?domain=" alt="favicon" /><a href="http://www.givemesomething.com">Give Me Something to Read</a></span></h3></div>	<ul class="feed-item">
+s:2262:"<img class="favicon" width="16" height="16" src="http://www.google.com/s2/favicons?domain=" alt="favicon" /><a href="http://www.givemesomething.com">Give Me Something to Read</a></span></h3></div>	<ul class="feed-item">
+			<li>
+				<a href="http://www.theatlantic.com/magazine/archive/2013/09/advertisement-for-murder/309435/?single_page=true" rel="nofollow" class="tt">Murder by Craigslist</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+A serial killer finds a newly vulnerable class of victims: white, working-class men.  #					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://www.buzzfeed.com/johnmahoney/the-notorious-msgs-unlikely-formula-for-success" rel="nofollow" class="tt">The Notorious MSG&#039;s Unlikely Formula For Success</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+The “umami” craze has turned a much-maligned and misunderstood food additive into an object of obsession for the world’s most innovative chefs. But ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://www.theatlantic.com/magazine/archive/2013/09/advertisement-for-murder/309435/?single_page=true" rel="nofollow" class="tt">Murder by Craigslist</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+A serial killer finds a newly vulnerable class of victims: white, working-class men.  #					</div>
+				</div>
+			</li>
 			<li>
 				<a href="http://www.prospectmagazine.co.uk/blog/film-noir-the-world-of-private-investigators-josephine-livingstone/#.Ugt4YmSshkx" rel="nofollow" class="tt">“Hired by a bitch to find scum”</a>
 				<div class="tooltip">
@@ -11,27 +32,6 @@ The PI’s bloodlines flow deeply into the tradition of masculine heroes. His ch
 				<div class="tooltip">
 					<div class="tooltipContainer">
 With big profits on the line, the drug industry is pulling out campaign-style dirty tricks to keep selling the meds that cooks turn ...					</div>
-				</div>
-			</li>
-			<li>
-				<a href="http://nautil.us/issue/4/the-unlikely/outsmarting-the-cernageddon" rel="nofollow" class="tt">Outsmarting the CERNageddon</a>
-				<div class="tooltip">
-					<div class="tooltipContainer">
-Physics: Can the Large Hadron Collider spawn black holes at full power? CERN investigates.  #					</div>
-				</div>
-			</li>
-			<li>
-				<a href="http://www.rollingstone.com/culture/news/the-poorest-rich-kids-in-the-world-20130812" rel="nofollow" class="tt">The Poorest Rich Kids in the World</a>
-				<div class="tooltip">
-					<div class="tooltipContainer">
-Raised by two drug addicts with virtually unlimited wealth, Georgia and Patterson survived a gilded childhood that was also a horror story of ...					</div>
-				</div>
-			</li>
-			<li>
-				<a href="http://lareviewofbooks.org/review/the-tedium-is-the-message-finn-bruntons-spam-a-shadow-history-of-the-internet" rel="nofollow" class="tt">The Tedium is the Message</a>
-				<div class="tooltip">
-					<div class="tooltipContainer">
-Between roughly 1995 and 2007, mysterious emails pitching cheap Viagra and penny stocks were part of everyday life online. Over time, the messages ...					</div>
 				</div>
 			</li>
     </ul>

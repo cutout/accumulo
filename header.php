@@ -54,6 +54,10 @@ if (is_single ()) {
 <?php
 	wp_head ();
 ?>
+
+<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/responsive.css" type="text/css" media="all" />
+
+
 </head>
 
 <body <?php bm_bodyClass (); ?>>
@@ -93,7 +97,6 @@ if (is_single ()) {
 
 
 <div id="main">
-<div class="wrapper">
 <?php
 	bm_banner ('header');
 ?>

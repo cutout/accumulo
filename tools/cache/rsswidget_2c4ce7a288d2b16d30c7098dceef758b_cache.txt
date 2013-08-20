@@ -1,37 +1,37 @@
-s:2445:"<img class="favicon" width="16" height="16" src="http://www.google.com/s2/favicons?domain=" alt="favicon" /><a href="http://www.nytimes.com">NY Times</a></span></h3></div>	<ul class="feed-item">
+s:2519:"<img class="favicon" width="16" height="16" src="http://www.google.com/s2/favicons?domain=" alt="favicon" /><a href="http://www.nytimes.com">NY Times</a></span></h3></div>	<ul class="feed-item">
 			<li>
-				<a href="http://www.nytimes.com/2013/08/17/world/middleeast/egypt.html?partner=rss&amp;emc=rss" rel="nofollow" class="tt">New Bloodshed in Egypt as Islamists Defy Threat of Force</a>
+				<a href="http://www.nytimes.com/2013/08/21/us/politics/manning-will-be-sentenced-on-wednesday.html?partner=rss&amp;emc=rss" rel="nofollow" class="tt">Manning Will Be Sentenced on Wednesday</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-Thousands of followers of the Muslim Brotherhood marched in Cairo on Friday to denounce a crushing assault by Egyptian forces, as reports of dozens of ...					</div>
+The sentencing of Pfc. Bradley Manning for the largest leak of confidential materials in American history is scheduled for 10 a.m., and he faces up ...					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://www.nytimes.com/2013/08/16/us/nsa-often-broke-rules-on-privacy-audit-shows.html?partner=rss&amp;emc=rss" rel="nofollow" class="tt">N.S.A. Often Broke Rules on Privacy, Audit Shows</a>
+				<a href="http://www.nytimes.com/2013/08/21/business/global/turkish-skyline-foreshadows-emerging-market-slowdown.html?partner=rss&amp;emc=rss" rel="nofollow" class="tt">Turkish Skyline Foreshadows Emerging-Market Slowdown</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-The violations of privacy rules, which were often inadvertent, cast new light on the agency’s potential for intrusions on Americans’ communications.					</div>
+Even optimists are growing nervous over the rapid accumulation of dollar-denominated debt in emerging economies like Turkey, while the Fed weighs its options.					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://cityroom.blogs.nytimes.com/2013/08/16/new-york-today-sleepover-art/?partner=rss&amp;emc=rss" rel="nofollow" class="tt">City Room: New York Today: Sleepover Art</a>
+				<a href="http://www.nytimes.com/2013/08/21/world/middleeast/palestinian-killed-by-israeli-soldiers-in-west-bank-raid.html?partner=rss&amp;emc=rss" rel="nofollow" class="tt">Palestinian Killed by Israeli Soldiers in West Bank Raid</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-What you need to know for Friday and the weekend: micro-apartment living inside a museum, high crimes in the art world, and a dead heat ...					</div>
+Israeli soldiers killed a young Palestinian man at a refugee camp as troops arrived to arrest an Islamic Jihad member suspected of planning terrorist attacks.					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://www.nytimes.com/2013/08/18/nyregion/what-new-yorkers-think-of-mayor-bloomberg.html?partner=rss&amp;emc=rss" rel="nofollow" class="tt">Poll Shows New Yorkers Are Deeply Conflicted Over Bloomberg’s Legacy</a>
+				<a href="http://www.nytimes.com/2013/08/21/books/elmore-leonard-master-of-crime-fiction-dies-at-87.html?partner=rss&amp;emc=rss" rel="nofollow" class="tt">Elmore Leonard, Who Refined the Crime Thriller, Dies at 87</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-Michael R. Bloomberg’s health initiatives have won over New Yorkers, but the public is less enamored of his overall mayoralty, The New York Times found.					</div>
+Mr. Leonard’s louche characters, deadpan dialogue and immaculate prose style in novels like “Get Shorty” secured his status as a modern master of American genre ...					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://www.nytimes.com/2013/08/17/world/asia/india-submarine.html?partner=rss&amp;emc=rss" rel="nofollow" class="tt">Divers Recover 4 Bodies From Sunken Indian Submarine</a>
+				<a href="http://www.nytimes.com/2013/08/21/dining/welcome-to-the-post-marinade-era-of-grilling.html?partner=rss&amp;emc=rss" rel="nofollow" class="tt">Welcome to the Post-Marinade Era of Grilling</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-Officials intend to use DNA analysis to identify the badly burned bodies found on the sub, which sank in Mumbai with 18 crew members aboard.					</div>
+Why a dry spice rub is a far better match for grilling than a soggy marinade.					</div>
 				</div>
 			</li>
     </ul>

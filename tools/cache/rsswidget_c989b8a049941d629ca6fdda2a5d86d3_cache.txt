@@ -1,0 +1,38 @@
+s:2428:"<img class="favicon" width="16" height="16" src="http://static.bleacherreport.net/favicon.ico" alt="favicon" /><a href="http://www.bleacherreport.com">Bleacher Report</a></span></h3></div>	<ul class="feed-item">
+			<li>
+				<a href="http://bleacherreport.com/articles/1742494-joe-girardi-ejected-after-alex-rodriguez-is-drilled-by-red-sox-ryan-dempster" rel="nofollow" class="tt">Joe Girardi Ejected After Alex Rodriguez Is Drilled by Red Sox Ryan Dempster</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Anything goes when the New York Yankees and Boston Red Sox get together. The two bitter American League East foes added ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://bleacherreport.com/articles/1737675-wwe-summerslam-2013-results-alberto-del-rio-retains-world-title" rel="nofollow" class="tt">WWE SummerSlam 2013 Results: Alberto Del Rio Retains World Title</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Alberto Del Rio remains one of the strongest heels in WWE after successfully defending his World Heavyweight Championship against ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://bleacherreport.com/articles/1742460-little-league-world-series-2013-results-biggest-surprises-from-sundays-action" rel="nofollow" class="tt">Little League World Series 2013 Results: Biggest Surprises from Sunday&#039;s Action</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Blowouts are prone to happen in little league baseball, but nobody expected the surprising results coming out of South					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://bleacherreport.com/articles/1742488-neymars-integration-will-make-barca-attack-unstoppable" rel="nofollow" class="tt">Neymar&#039;s Integration Will Make Barca Attack Unstoppable</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Barcelona were incredible on the attack during Neymar&rsquo;s La Liga debut, but the side will become ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://bleacherreport.com/articles/1742467-we-remember-kobe-bryants-dunk-on-yao-ming-in-2003" rel="nofollow" class="tt">We Remember Kobe Bryant&#039;s Dunk on Yao Ming in 2003</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+In one of the most talked-about dunks of his career, Kobe Bryant threw down a massive dunk over Rockets center ...					</div>
+				</div>
+			</li>
+    </ul>
+";

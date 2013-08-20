@@ -6,6 +6,7 @@
 	line-height: 1.0;
 	float:right;
 	margin-top:15px;
+	display: none;
 	}
 
 .nav:after,
@@ -18,20 +19,22 @@
 	}
 		
 .nav li {
-	margin-left:18px;
 	position:relative;
 	list-style:none;
 	float: left
 	}
-		
+
 .nav a,
 .nav a:visited {
 	display: block;
 	text-decoration: none;
-	color:#e4e4e4;
-	padding: 9px 12px;	
 	}
 
+#tabber a:hover, #tabber a:active, 
+.pane .widget:hover h3:hover {
+	background: #2e3237
+	}	
+		
 .nav a:active, .nav a:hover {
 	color:#878787;
 	}
@@ -177,21 +180,18 @@ ul.nav li li li.sfhover ul {
 }
 
 #tabber {
-	border-bottom:1px solid #dae1e5;
 	text-align:center;
 	margin-bottom: 12px;
 	}
 
 #tabber a, #tabber a:visited {
 	height:100%!important; 
+	padding: 20px 36px 18px;
+	text-transform: uppercase
 }
 
 #tabber li {display:inline;}
 
-li#first {
-	border-left:1px solid #dae1e5;
-	}
-	
 .ui-tabs-nav:after { 
     display: block!important;
     clear: both!important;
@@ -200,22 +200,14 @@ li#first {
 
 .ui-tabs-nav li {
     float: left!important;
-	margin-bottom:-1px;
 	list-style:none;
+	border-right:1px solid #4a525a;
 }
 
 .ui-tabs-nav a.ui-tabs, .ui-tabs-nav a.ui-tabs:visited {
-	border: 1px solid #dae1e5;
 	border-left:none;	
-	background: #e9f0f5 url(../images/bg_nav.png) repeat-x;
     display:block!important;
 	position: relative!important;
-	padding:9px 17px 10px;
-	color:#383a3b;
-	text-decoration:none;
-	text-shadow: 0 1px 0 #FFF;
-	opacity:.75;
-	-moz-opacity: .75;
 }
 
 
@@ -226,9 +218,8 @@ li#first {
 	
 .ui-tabs-nav a.current,
 .ui-tabs-nav a.current:visited {	
-	background:#FFF !important;
-	border-bottom:1px solid #FFF;
 	opacity:1 !important;
+	color: #fff;
 	}
 	
 
