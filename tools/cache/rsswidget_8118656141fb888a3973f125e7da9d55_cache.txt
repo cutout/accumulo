@@ -1,37 +1,37 @@
-s:1963:"<img class="favicon" width="16" height="16" src="http://ireport.cnn.com/favicon.ico" alt="favicon" /><a href="http://www.sportsillustrated.com">Sports Illustrated</a></span></h3></div>	<ul class="feed-item">
+s:1939:"<img class="favicon" width="16" height="16" src="http://ireport.cnn.com/favicon.ico" alt="favicon" /><a href="http://www.sportsillustrated.com">Sports Illustrated</a></span></h3></div>	<ul class="feed-item">
 			<li>
-				<a href="http://sportsillustrated.cnn.com/mlb/news/20130818/alex-rodriguez-red-sox.ap/?xid=si_topstories" rel="nofollow" class="tt">A-Rod plunked by Dempster; Girardi was tossed</a>
+				<a href="http://nba.si.com/2013/08/19/offseason-grades-chicago-bulls/?xid=si_topstories" rel="nofollow" class="tt">Offseason Grades: Chicago Bulls</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-BOSTON (AP) -- Alex Rodriguez has been hit by a pitch in his first at-bat, prompting the New York Yankees and Boston Red Sox to ...					</div>
+The Bulls made a couple moves, but their biggest addition by far will be a healthy Derrick Rose.					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://sportsillustrated.cnn.com/baseball/mlb/gameflash/2013/08/18/49263/index.html?xid=si_topstories" rel="nofollow" class="tt">LIVE: Yankees look to win series vs. Red Sox</a>
-				<div class="tooltip">
-					<div class="tooltipContainer">
-We have drama in Boston after Ryan Dempster hit A-Rod and Joe Girardi was tossed. Will Yanks answer with a win?					</div>
-				</div>
-			</li>
-			<li>
-				<a href="http://tracking.si.com/2013/08/18/arod-medical-grievance-yankees-mlbpa-biogenesis-steroids-joe-tapocina/?xid=si_topstories" rel="nofollow" class="tt">A-Rod begins formal medical grievance process</a>
+				<a href="http://nfl.si.com/2013/08/19/von-miller-to-be-suspended-at-least-six-games-per-report/?xid=si_topstories" rel="nofollow" class="tt">Report: Von Miller will get &#039;at least&#039; 6-game ban</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
 					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://sportsillustrated.cnn.com/football/nfl/gameflash/2013/08/18/5719/index.html?xid=si_topstories" rel="nofollow" class="tt">Colts-Giants</a>
+				<a href="http://sportsillustrated.cnn.com/college-football/news/20130819/big-12-conference-preview/?xid=si_topstories" rel="nofollow" class="tt">Texas, TCU headline 2013 Big 12 preview</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Baylor. Oklahoma. Oklahoma State. TCU. Texas. It's anyone's guess who will emerge from the Big 12.					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://nfl.si.com/2013/08/19/barkevious-mingo-lung-injury-cleveland-browns/?xid=si_topstories" rel="nofollow" class="tt">Report: Injury could have cost NFL rook his life</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
 					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://sportsillustrated.cnn.com/nfl/news/20130818/peterson-play-vikings-frazier/?xid=si_topstories" rel="nofollow" class="tt">Vikings&#039; Frazier: Peterson will play vs. the 49ers</a>
+				<a href="http://sportsillustrated.cnn.com/more/news/20130819/oscar-pistorius-indicted-on-murder-charge.ap/?xid=si_topstories" rel="nofollow" class="tt">Pistorius indicted on murder charge; awaits trial</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-Adrian Peterson has been cleared for takeoff.					</div>
+Oscar Pistorius indicted on charge of murdering Reeva Steenkamp					</div>
 				</div>
 			</li>
     </ul>

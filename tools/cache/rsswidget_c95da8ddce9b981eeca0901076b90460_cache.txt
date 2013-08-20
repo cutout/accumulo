@@ -1,16 +1,16 @@
-s:2288:"<img class="favicon" width="16" height="16" src="http://sports.cbsimg.net/favicon.ico" alt="favicon" /><a href="http://www.cbssports.com">CBS Sports</a></span></h3></div>	<ul class="feed-item">
+s:2016:"<img class="favicon" width="16" height="16" src="http://sports.cbsimg.net/favicon.ico" alt="favicon" /><a href="http://www.cbssports.com">CBS Sports</a></span></h3></div>	<ul class="feed-item">
 			<li>
-				<a href="http://www.cbssports.com/mlb/eye-on-baseball/23210639/report-arod-has-started-process-of-filing-grievance-againt-yankees" rel="nofollow" class="tt">Report: A-Rod looks at filing grievance vs. Yanks</a>
+				<a href="http://www.cbssports.com/mlb/eye-on-baseball/23213013/report-alex-rodriguez-paid-for-anthony-boschs-attorney" rel="nofollow" class="tt">A-Rod reports: Paid for Bosch lawyer</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-Report: A-Rod looks at filing grievance vs. Yanks					</div>
+A-Rod reports: Paid for Bosch lawyer					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://www.cbssports.com/collegefootball/blog/eye-on-college-football/23208547/fellow-heisman-winner-ricky-williams-rips-manziel" rel="nofollow" class="tt">Fellow Heisman winner Ricky Williams rips Manziel</a>
+				<a href="http://www.cbssports.com/nfl/eye-on-football/23221820/arian-fosters-back-injury-apparently-bothering-him-in-his-legs-too" rel="nofollow" class="tt">Kubiak: Foster&#039;s back injury bothering him in legs</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-Former Heisman Trophy winner Ricky Williams, asked about Johnny Manziel's handling of the increased exposure, was critical of the QB's habits.					</div>
+Kubiak: Foster's back injury bothering him in legs					</div>
 				</div>
 			</li>
 			<li>
@@ -21,17 +21,17 @@ Reports: Celts seek assistant to deal with Rondo					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://www.cbssports.com/collegefootball/blog/eye-on-college-football/23209871/ncaa-rules-force-marine-to-redshirt-over-intramural-games" rel="nofollow" class="tt">NCAA rules force Marine to redshirt over &#039;intramural&#039; games</a>
+				<a href="http://www.cbssports.com/nfl/eye-on-football/23221400/aaron-hernandez-in-new-jailhouse-letter-im-a-great-dude" rel="nofollow" class="tt">Hernandez in new letter from jail: &#039;I&#039;m a great dude&#039;</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-A former Marine walking on at Middle Tennessee St. must redshirt over an NCAA rule that mandates a year off for any 'organized competition.'					</div>
+Hernandez in new letter from jail: 'I'm a great dude'					</div>
 				</div>
 			</li>
 			<li>
-				<a href="http://www.nascar.com/en_us/news-media/articles/2013/08/18/nascar-michigan-results-sprint-cup-series-pure-michigan-400-michigan-international-speedway-400.html" rel="nofollow" class="tt">Logano tops Harvick in fuel battle, wins Michigan</a>
+				<a href="http://www.cbssports.com/nfl/blog/eye-on-football/23222007/chiefs-trade-jonathan-baldwin-to-49ers-for-aj-jenkins" rel="nofollow" class="tt">Chiefs trade Jonathan Baldwin to 49ers for A.J. Jenkins</a>
 				<div class="tooltip">
 					<div class="tooltipContainer">
-Logano tops Harvick in fuel battle, wins Michigan					</div>
+The Chiefs traded Jonathan Baldwin to the 49ers for A.J. Jenkins.					</div>
 				</div>
 			</li>
     </ul>

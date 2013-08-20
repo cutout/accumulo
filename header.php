@@ -96,7 +96,7 @@ if (is_single ()) {
 </div><!--/top-->
 
 
-<div id="main">
+<div id="main" class="clearfix">
 <?php
 	bm_banner ('header');
 ?>
