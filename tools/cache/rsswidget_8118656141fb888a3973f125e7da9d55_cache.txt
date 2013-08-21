@@ -1,0 +1,38 @@
+s:1984:"<img class="favicon" width="16" height="16" src="http://ireport.cnn.com/favicon.ico" alt="favicon" /><a href="http://www.sportsillustrated.com">Sports Illustrated</a></span></h3></div>	<ul class="feed-item">
+			<li>
+				<a href="http://sportsillustrated.cnn.com/video/nfl/20130820/2013-08-20-clip08.sportsillustrated/?xid=si_topstories" rel="nofollow" class="tt">Peter King discusses Michael Vick winning QB job in Philly, other competitions</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+On Tuesday's SI Now, Peter King discusses Michael Vick being named the Eagles' starting QB ahead of Nick Foles.					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://tracking.si.com/2013/08/20/cavaliers-anthony-bennett-agree-to-terms/?xid=si_topstories" rel="nofollow" class="tt">Cavs sign No. 1 pick Anthony Bennett to deal</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://nfl.si.com/2013/08/20/von-miller-suspended-for-the-first-six-games-of-the-2013-season/?xid=si_topstories" rel="nofollow" class="tt">It&#039;s official: Broncos&#039; Miller hit with six-game ban</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://sportsillustrated.cnn.com/baseball/mlb/gameflash/2013/08/20/50244/index.html#recap?xid=si_topstories" rel="nofollow" class="tt">Cano&#039;s huge day powers Yankees past Blue Jays</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://sportsillustrated.cnn.com/college-football/news/20130820/gary-andersen-wisconsin/?xid=si_topstories" rel="nofollow" class="tt">The road to Madison: Gary Andersen&#039;s path to Wisconsin</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+It's been a long and winding path, full of ups and downs, for new Badgers head coach Gary Andersen.					</div>
+				</div>
+			</li>
+    </ul>
+";

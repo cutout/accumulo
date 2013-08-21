@@ -1,0 +1,38 @@
+s:2174:"<img class="favicon" width="16" height="16" src="http://ireport.cnn.com/favicon.ico" alt="favicon" /><a href="http://www.cnn.com">CNN</a></span></h3></div>	<ul class="feed-item">
+			<li>
+				<a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/Vgmw3So-VV8/index.html" rel="nofollow" class="tt">Lawsuit seeks return of items seized in UK</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+David Miranda told CNN that UK authorities badgered him with questions and threatened him with jail during a nine-hour detention at Heathrow Airport. FULL STORY					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/55EO5bO_050/index.html" rel="nofollow" class="tt">Fires burn in Yellowstone, near Yosemite</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Four wildfires were burning in Yellowstone National Park on Tuesday, the 25th anniversary of a devastating day in 1988 when massive wildfires in the park ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/OBKNYTOHZaM/index.html" rel="nofollow" class="tt">Gay teen back in jail over texts, nude pics</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Kaitlyn Hunt violated a court order by contacting the 14-year-old girl at the center of the case against her, a judge ruled Tuesday.					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/YfvXz5IWv_4/index.html" rel="nofollow" class="tt">Talk about a mess</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Mayor Bob Filner's camp is in talks with the city that could end in his resignation, something polls show most of San Diego's citizens want.					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/7tgElBcGjCM/index.html" rel="nofollow" class="tt">San Diego mayor&#039;s accusers</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+So far, 16 women have come forward to say that San Diego Mayor Bob Filner acted inappropriately, with accusations ranging from one woman's claim that ...					</div>
+				</div>
+			</li>
+    </ul>
+";

@@ -1,0 +1,38 @@
+s:2488:"<img class="favicon" width="16" height="16" src="http://static.bleacherreport.net/favicon.ico" alt="favicon" /><a href="http://www.bleacherreport.com">Bleacher Report</a></span></h3></div>	<ul class="feed-item">
+			<li>
+				<a href="http://bleacherreport.com/articles/1743284-10-most-hyped-super-teams-in-nba-history" rel="nofollow" class="tt">10 Most Hyped Superteams in NBA History</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+The superteam may be a relatively modern concept in the NBA, but it's one that has shaken up the landscape of the Association immensely ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://bleacherreport.com/articles/1745124-why-taylor-martinez-will-be-ameer-abdullahs-best-friend" rel="nofollow" class="tt">Why Taylor Martinez Will Be Ameer Abdullah&#039;s Best Friend</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Nebraska football fans have pinned a lot of hopes on quarterback Taylor Martinez and I-back Ameer Abdullah this season&mdash;and ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://bleacherreport.com/articles/1745136-georgia-football-how-keith-marshalls-added-weight-impacts-the-bulldogs-offense" rel="nofollow" class="tt">Georgia Football: How Keith Marshall&#039;s Added Weight Impacts the Bulldogs Offense</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Keith Marshall is living up to the hype that was built over a year ago. He may have started only one game ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://bleacherreport.com/articles/1744250-manchester-city-are-citizens-true-champions-league-contenders-under-pellegrini" rel="nofollow" class="tt">Manchester City: Are Citizens True Champions League Contenders Under Pellegrini?</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Manchester City's Champions League aspirations were not impacted one way or the other by their comprehensive gutting of Newcastle&nbsp;in their ...					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://bleacherreport.com/articles/1745078-barcelona-vs-atletico-madrid-match-will-be-proving-ground-for-both-clubs" rel="nofollow" class="tt">Barcelona vs. Atletico Madrid: Match Will Be Proving Ground for Both Clubs</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Coming off of impressive victories to the start of the La Liga season, both Barcelona and Atletico Madrid will provide ...					</div>
+				</div>
+			</li>
+    </ul>
+";

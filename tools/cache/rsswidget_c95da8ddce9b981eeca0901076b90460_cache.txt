@@ -1,0 +1,38 @@
+s:1964:"<img class="favicon" width="16" height="16" src="http://sports.cbsimg.net/favicon.ico" alt="favicon" /><a href="http://www.cbssports.com">CBS Sports</a></span></h3></div>	<ul class="feed-item">
+			<li>
+				<a href="http://www.cbssports.com/mlb/eye-on-baseball/23240792/yasiel-puig-fined-for-showing-up-late" rel="nofollow" class="tt">Dodgers hit Puig with fine for getting to game late</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Dodgers hit Puig with fine for getting to game late					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://www.cbssports.com/mlb/eye-on-baseball/23238626/ryan-dempster-suspended-five-games-for-throwing-at-alex-rodriguez" rel="nofollow" class="tt">MLB bans Dempster five games for hitting A-Rod</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+MLB bans Dempster five games for hitting A-Rod					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://www.cbssports.com/nfl/eye-on-football/23236793/some-member-of-72-dolphins-refuse-white-house-invite" rel="nofollow" class="tt">Three of 1972 Dolphins refuse White House invite</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Three of 1972 Dolphins refuse White House invite					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://www.cbssports.com/nfl/eye-on-football/23238175/report-smith-to-be-suspended-1-regular-season-2-preseason-games" rel="nofollow" class="tt">Report: Smith ban extends into Texans&#039; opener</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Report: Smith ban extends into Texans' opener					</div>
+				</div>
+			</li>
+			<li>
+				<a href="http://www.cbssports.com/nfl/eye-on-football/23237693/report-geno-smith-to-start-vs-giants-on-saturday" rel="nofollow" class="tt">Geno getting start for Jets on Saturday vs. Giants</a>
+				<div class="tooltip">
+					<div class="tooltipContainer">
+Geno getting start for Jets on Saturday vs. Giants					</div>
+				</div>
+			</li>
+    </ul>
+";
